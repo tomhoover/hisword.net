@@ -1,0 +1,3 @@
+Sitemap: http://hisword.net/sitemap.xml.gz
+User-agent: *
+Allow: /

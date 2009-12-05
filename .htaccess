@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+# Redirecting www version to non-www version
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+# /tom to tomhoover.com
+RewriteRule ^tom$ tom/ [R=301,L]
+RewriteRule ^tom/$ http://tomhoover.com/ [R=301,L]
+</IfModule>
+# custom 404 page
+ErrorDocument 404 /error404/
