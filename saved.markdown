@@ -14,8 +14,8 @@ a head acceptance of the Lord Jesus Christ. Tragically enough, even teachers,
 preachers and religious workers are not exempt from the possibility of this
 chilling indictment.
 
-The distance between the head and the heart is 18 inches. Unfortunately, a head
---- intellectual --- knowledge of the Lord Jesus Christ, fully knowing and
+The distance between the head and the heart is 18 inches. Unfortunately, a
+head&mdash;intellectual&mdash;knowledge of the Lord Jesus Christ, fully knowing and
 giving mental assent to the plan of salvation, without also a heart acceptance
 that brings the personal relationship that the Bible demands, avails nothing to
 any man.
