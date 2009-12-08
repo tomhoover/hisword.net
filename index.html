@@ -16,7 +16,7 @@ title: HisWord.net
     <h2>Previous posts</h2>
     <ul class="posts">
       {% for post in site.posts offset:5 limit:5 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
