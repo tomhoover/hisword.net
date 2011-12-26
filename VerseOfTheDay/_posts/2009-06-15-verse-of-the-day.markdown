@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 15th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/15/]
 ---
 
 _Proverbs 1:33  

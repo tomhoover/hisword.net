@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 2nd - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/02/]
 ---
 
 _Matthew 25:35-36  

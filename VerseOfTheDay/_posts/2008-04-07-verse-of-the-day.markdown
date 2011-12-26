@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 7th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/07/]
 ---
 
 _Jeremiah 1:5  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 27th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/27/]
 ---
 
 _Haggai 2:4b  

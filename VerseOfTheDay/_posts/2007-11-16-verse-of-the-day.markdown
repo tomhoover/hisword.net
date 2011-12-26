@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 16th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/16/]
 ---
 
 _Malachi 4:2  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 10, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/10/]
 ---
 
 _Psalm 145:9  

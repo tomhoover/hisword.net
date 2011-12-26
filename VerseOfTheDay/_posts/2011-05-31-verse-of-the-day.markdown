@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 31st - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/31/]
 ---
 
 _I Corinthians 15:58  

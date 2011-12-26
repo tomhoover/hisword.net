@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 12th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/12/]
 ---
 
 _Isaiah 40:29  

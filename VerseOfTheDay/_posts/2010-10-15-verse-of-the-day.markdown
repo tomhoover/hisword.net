@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 15th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/15/]
 ---
 
 _Galatians 3:26  

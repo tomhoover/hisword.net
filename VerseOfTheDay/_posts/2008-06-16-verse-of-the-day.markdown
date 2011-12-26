@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 16th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/16/]
 ---
 
 _I Corinthians 14:33  

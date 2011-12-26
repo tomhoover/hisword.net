@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 22nd - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/22/]
 ---
 
 _Psalm 94:22  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 6th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/06/]
 ---
 
 _II Corinthians 5:9  

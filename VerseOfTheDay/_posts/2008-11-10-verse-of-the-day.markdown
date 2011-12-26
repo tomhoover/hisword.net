@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 10th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/10/]
 ---
 
 _Psalm 40:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 29th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/29/]
 ---
 
 _James 2:5  

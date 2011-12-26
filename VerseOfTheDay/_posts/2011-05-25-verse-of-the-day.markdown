@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 25th - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/25/]
 ---
 
 _Psalm 7:9  

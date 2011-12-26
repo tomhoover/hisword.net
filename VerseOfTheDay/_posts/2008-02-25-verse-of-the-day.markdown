@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 25th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/25/]
 ---
 
 _Psalm 3:3  

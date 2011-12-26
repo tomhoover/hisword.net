@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 5th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/05/]
 ---
 
 _Ephesians 6:11  

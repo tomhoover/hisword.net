@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 2, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/02/]
 ---
 
 _Psalm 118:21-22  

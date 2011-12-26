@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 6th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/06/]
 ---
 
 _Colossians 1:12  

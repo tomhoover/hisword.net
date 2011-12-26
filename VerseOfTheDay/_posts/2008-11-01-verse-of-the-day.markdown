@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 1st - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/01/]
 ---
 
 _Jeremiah 33:3  

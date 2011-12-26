@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 13th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/13/]
 ---
 
 _Romans 12:21  

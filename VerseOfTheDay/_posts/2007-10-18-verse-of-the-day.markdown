@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 18th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/18/]
 ---
 
 _Psalm 16:8  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 23rd - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/23/]
 ---
 
 _Luke 24:5-6  

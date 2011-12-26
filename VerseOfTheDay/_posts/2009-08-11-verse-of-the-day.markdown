@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 11th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/11/]
 ---
 
 _Exodus 16:8b  

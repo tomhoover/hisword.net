@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 21st - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/21/]
 ---
 
 _Psalm 119:171  

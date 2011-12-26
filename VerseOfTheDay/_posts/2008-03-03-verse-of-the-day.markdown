@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 3rd - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/03/]
 ---
 
 _II Corinthians 7:1  

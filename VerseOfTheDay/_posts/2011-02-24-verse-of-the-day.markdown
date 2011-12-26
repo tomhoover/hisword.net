@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 24th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/24/]
 ---
 
 _John 16:13  

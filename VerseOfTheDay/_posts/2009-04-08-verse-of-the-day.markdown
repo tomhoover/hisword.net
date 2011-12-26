@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 8th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/08/]
 ---
 
 _I Corinthians 15:57  

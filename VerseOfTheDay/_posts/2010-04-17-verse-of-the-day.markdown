@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 17th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/17/]
 ---
 
 _James 1:26  

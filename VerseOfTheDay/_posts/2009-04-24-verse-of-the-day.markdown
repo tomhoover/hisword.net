@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 24th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/24/]
 ---
 
 _Psalm 46:1-2  

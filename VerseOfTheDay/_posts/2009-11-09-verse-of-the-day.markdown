@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 9th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/09/]
 ---
 
 _Psalm 143:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 26th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/26/]
 ---
 
 _Colossians 4:2  

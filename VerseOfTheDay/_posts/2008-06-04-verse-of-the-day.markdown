@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 4th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/04/]
 ---
 
 _Isaiah 57:21  

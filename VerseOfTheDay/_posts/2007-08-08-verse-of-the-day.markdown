@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 8, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/08/]
 ---
 
 _Ezekiel 34:12  

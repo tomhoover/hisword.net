@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 24th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/24/]
 ---
 
 _John 11:25-26  

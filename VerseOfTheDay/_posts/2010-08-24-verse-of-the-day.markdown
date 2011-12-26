@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 24th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/24/]
 ---
 
 _Psalm 40:4  

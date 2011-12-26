@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 8th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/08/]
 ---
 
 _Isaiah 18:3  

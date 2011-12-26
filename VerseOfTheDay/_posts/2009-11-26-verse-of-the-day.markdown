@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 26th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/26/]
 ---
 
 _Psalm 63:3-4  

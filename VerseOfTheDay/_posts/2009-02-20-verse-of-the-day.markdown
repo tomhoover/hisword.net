@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 20th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/20/]
 ---
 
 _I John 3:11  

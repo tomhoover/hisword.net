@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 3rd - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/03/]
 ---
 
 _Joshua 24:15b  

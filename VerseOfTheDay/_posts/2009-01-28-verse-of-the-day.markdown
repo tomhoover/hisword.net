@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 28th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/28/]
 ---
 
 _Philippians 3:14  

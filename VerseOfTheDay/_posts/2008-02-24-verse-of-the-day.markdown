@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 24th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/24/]
 ---
 
 _Proverbs 18:24  

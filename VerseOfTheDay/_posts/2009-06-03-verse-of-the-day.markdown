@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 3rd - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/03/]
 ---
 
 _Psalm 17:7  

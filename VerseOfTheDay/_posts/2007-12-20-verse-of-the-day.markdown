@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 20th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/20/]
 ---
 
 _John 3:16  

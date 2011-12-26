@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 18th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/18/]
 ---
 
 _Psalm 119:90  

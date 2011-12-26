@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 2nd - FaithLight...lighting your world through Faith in the
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/02/]
 ---
 
 _Psalm 36:9  

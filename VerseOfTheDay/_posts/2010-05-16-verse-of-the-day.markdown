@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 16th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/16/]
 ---
 
 _John 17:15  

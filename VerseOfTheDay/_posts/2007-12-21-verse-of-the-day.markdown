@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 21st - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/21/]
 ---
 
 _Titus 2:11  

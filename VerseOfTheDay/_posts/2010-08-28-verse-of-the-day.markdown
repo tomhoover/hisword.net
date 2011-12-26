@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 28th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/28/]
 ---
 
 _Psalm 38:15  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 22nd - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/22/]
 ---
 
 _I Peter 5:5-6  

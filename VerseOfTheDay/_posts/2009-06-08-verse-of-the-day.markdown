@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 8th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/08/]
 ---
 
 _James 1:2-3  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 26th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/26/]
 ---
 
 _Ephesians 4:26  

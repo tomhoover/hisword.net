@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 29th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/29/]
 ---
 
 _Isaiah 41:13  

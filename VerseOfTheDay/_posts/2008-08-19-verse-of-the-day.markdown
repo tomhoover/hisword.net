@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 19th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/19/]
 ---
 
 _Luke 16:12  

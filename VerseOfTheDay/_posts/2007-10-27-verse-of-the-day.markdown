@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 27th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/27/]
 ---
 
 _Romans 1:8  

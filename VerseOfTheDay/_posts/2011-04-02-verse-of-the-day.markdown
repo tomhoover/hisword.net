@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 2nd - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/02/]
 ---
 
 _I Peter 1:3  

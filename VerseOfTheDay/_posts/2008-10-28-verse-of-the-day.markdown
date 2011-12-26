@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 28th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/28/]
 ---
 
 _Psalm 139:9-10  

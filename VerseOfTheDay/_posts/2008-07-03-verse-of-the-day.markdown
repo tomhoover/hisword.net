@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 3rd - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/03/]
 ---
 
 _Psalm 68:19  

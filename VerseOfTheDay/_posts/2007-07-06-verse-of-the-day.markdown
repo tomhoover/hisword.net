@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 6, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/06/]
 ---
 
 _Psalm 139:12  

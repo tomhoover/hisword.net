@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 28th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/28/]
 ---
 
 _II Timothy 4:7  

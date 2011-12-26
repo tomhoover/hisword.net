@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 26th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/26/]
 ---
 
 _Psalm 103:2  

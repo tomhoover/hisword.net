@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 9th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/09/]
 ---
 
 _Job 1:21  

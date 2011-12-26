@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 22nd - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/22/]
 ---
 
 _Proverbs 14:5  

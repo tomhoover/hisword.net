@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 5th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/05/]
 ---
 
 _I Corinthians 12:20  

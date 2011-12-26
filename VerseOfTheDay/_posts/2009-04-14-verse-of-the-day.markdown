@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 14th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/14/]
 ---
 
 _Psalm 23:2  

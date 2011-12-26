@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 18th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/18/]
 ---
 
 _Psalm 25:4  

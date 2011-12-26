@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 2nd - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/02/]
 ---
 
 _Genesis 22:8  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 3rd - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/03/]
 ---
 
 _John 11:25-26  

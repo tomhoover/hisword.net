@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 30th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/30/]
 ---
 
 _I Corinthians 15:17  

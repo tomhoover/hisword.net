@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 4th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/04/]
 ---
 
 _Malachi 3:10  

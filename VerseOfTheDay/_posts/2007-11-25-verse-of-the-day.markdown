@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 25th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/25/]
 ---
 
 _Psalm 41:4  

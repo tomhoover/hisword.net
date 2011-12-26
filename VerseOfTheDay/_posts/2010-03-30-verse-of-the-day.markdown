@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 30th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/30/]
 ---
 
 _I John 3:18  

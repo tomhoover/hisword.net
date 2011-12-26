@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 20th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/20/]
 ---
 
 _Colossians 1:19-20  

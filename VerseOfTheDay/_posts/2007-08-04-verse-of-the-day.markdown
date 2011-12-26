@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 4, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/04/]
 ---
 
 _Hebrews 13:20  

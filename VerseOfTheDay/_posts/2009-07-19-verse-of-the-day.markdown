@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 19th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/19/]
 ---
 
 _Psalm 51:17  

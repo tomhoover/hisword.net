@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 9th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/09/]
 ---
 
 _Ezra 8:22b  

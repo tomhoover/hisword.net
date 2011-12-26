@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 22nd - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/22/]
 ---
 
 _Romans 6:23  

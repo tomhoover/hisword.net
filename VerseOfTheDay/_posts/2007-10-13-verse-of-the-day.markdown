@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 13th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/13/]
 ---
 
 _II Corinthians 1:9  

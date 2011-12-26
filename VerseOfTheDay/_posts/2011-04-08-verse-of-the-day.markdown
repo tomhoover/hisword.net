@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 8th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/08/]
 ---
 
 _Romans 13:1  

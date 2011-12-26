@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 19th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/19/]
 ---
 
 _Psalm 55:22  

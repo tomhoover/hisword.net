@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 9th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/09/]
 ---
 
 _Psalm 119:71  

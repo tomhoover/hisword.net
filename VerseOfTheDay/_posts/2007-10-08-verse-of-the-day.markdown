@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 8th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/08/]
 ---
 
 _I Timothy 6:17  

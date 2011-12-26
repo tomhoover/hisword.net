@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 22nd - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/22/]
 ---
 
 _Ephesians 3:19  

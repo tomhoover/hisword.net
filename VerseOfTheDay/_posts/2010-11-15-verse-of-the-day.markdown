@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 15th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/15/]
 ---
 
 _Romans 10:17  

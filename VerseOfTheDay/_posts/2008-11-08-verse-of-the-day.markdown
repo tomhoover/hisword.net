@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 8th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/08/]
 ---
 
 _Mark 11:25-26  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 6th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/06/]
 ---
 
 _I Timothy 2:8  

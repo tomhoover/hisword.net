@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 7th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/07/]
 ---
 
 _Jeremiah 13:23  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 27th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/27/]
 ---
 
 _John 15:13  

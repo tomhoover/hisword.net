@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 27th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/27/]
 ---
 
 _Psalm 34:10  

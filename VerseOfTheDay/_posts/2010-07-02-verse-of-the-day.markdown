@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 2nd - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/02/]
 ---
 
 _Galatians 6:2  

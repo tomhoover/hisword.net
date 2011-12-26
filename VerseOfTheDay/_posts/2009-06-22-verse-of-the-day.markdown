@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 22nd - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/22/]
 ---
 
 _II Corinthians 4:8-9  

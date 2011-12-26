@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 1st - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/01/]
 ---
 
 _I Corinthians 13:6  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 13th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/13/]
 ---
 
 _Psalm 90:2  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 21st - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/21/]
 ---
 
 _Psalm 29:11  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 5th - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/05/]
 ---
 
 _II Timothy 1:7  

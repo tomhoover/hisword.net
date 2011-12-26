@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 25th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/25/]
 ---
 
 _Romans 5:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 31st - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/31/]
 ---
 
 _Revelation 17:14  

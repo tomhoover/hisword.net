@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 11th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/11/]
 ---
 
 _Colossians 1:10-11  

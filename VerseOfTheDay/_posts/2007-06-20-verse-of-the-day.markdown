@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 20, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/20/]
 ---
 
 _Isaiah 43:2  

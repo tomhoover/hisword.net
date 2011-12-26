@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 8th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/08/]
 ---
 
 _Psalm 16:11  

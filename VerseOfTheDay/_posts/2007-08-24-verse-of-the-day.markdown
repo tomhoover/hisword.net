@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 24, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/24/]
 ---
 
 _Psalm 86:7  

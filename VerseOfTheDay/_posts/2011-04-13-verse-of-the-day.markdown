@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 13th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/13/]
 ---
 
 _Hebrews 2:14  

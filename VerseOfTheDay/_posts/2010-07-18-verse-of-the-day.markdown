@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 18th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/18/]
 ---
 
 _Song of Solomon 2:4  

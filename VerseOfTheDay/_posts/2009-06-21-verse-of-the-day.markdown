@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 21st - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/21/]
 ---
 
 _Ephesians 6:4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 12th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/12/]
 ---
 
 _John 6:69  

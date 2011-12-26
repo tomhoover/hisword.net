@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 20th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/20/]
 ---
 
 _Psalm 107:8-9  

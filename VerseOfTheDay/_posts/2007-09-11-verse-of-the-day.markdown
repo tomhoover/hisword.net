@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 11, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/11/]
 ---
 
 _Jeremiah 33:3  

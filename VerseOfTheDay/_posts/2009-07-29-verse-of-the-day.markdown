@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 29th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/29/]
 ---
 
 _I Peter 2:5  

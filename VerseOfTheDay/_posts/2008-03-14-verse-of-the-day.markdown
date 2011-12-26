@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 14th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/14/]
 ---
 
 _II Corinthians 5:21  

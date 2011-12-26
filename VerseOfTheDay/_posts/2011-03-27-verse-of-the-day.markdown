@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 27th - FaithLine...building upon the line of Faith set before
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/03/27/]
 ---
 
 _Psalm 90:1  

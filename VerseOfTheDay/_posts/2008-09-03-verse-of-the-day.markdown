@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 3rd - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/03/]
 ---
 
 _Psalm 51:1  

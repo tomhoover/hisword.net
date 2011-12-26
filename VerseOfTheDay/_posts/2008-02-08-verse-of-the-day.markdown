@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 8th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/08/]
 ---
 
 _Psalm 63:1-2  

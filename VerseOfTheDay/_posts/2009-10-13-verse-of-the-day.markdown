@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 13th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/13/]
 ---
 
 _James 1:2-3  

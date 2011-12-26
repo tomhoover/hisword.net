@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 15th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/15/]
 ---
 
 _Psalm 62:6  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 23rd - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/23/]
 ---
 
 _Psalm 119:151  

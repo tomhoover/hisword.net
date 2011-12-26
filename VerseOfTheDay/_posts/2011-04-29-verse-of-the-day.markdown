@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 29th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/29/]
 ---
 
 _I John 5:4-5  

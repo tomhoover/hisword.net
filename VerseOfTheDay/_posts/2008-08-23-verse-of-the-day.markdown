@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 23rd - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/23/]
 ---
 
 _Psalm 143:1  

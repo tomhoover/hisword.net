@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 23rd - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/23/]
 ---
 
 _I Peter 1:8  

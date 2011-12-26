@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 31, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/31/]
 ---
 
 _Luke 6:38  

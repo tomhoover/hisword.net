@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 6th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/06/]
 ---
 
 _Hebrews 10:23  

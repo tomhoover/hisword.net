@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 18th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/18/]
 ---
 
 _Ephesians 6:14  

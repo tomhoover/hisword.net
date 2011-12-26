@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 15, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/15/]
 ---
 
 _Isaiah 26:3-4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 6th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/06/]
 ---
 
 _Psalm 27:4  

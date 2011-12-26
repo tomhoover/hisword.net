@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 29, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/29/]
 ---
 
 _I John 1:5-7  

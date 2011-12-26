@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 23rd- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/23/]
 ---
 
 _Psalm 142:4-5  

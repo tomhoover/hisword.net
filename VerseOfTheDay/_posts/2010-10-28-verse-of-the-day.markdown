@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 28th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/28/]
 ---
 
 _Romans 4:16  

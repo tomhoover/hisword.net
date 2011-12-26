@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 30th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/30/]
 ---
 
 _Numbers 14:18  

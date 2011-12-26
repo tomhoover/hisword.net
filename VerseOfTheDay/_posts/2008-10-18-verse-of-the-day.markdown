@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 18th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/18/]
 ---
 
 _II Timothy 2:15  

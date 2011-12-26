@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 11th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/11/]
 ---
 
 _Psalm 89:1  

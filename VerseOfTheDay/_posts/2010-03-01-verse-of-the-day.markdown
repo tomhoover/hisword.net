@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 1st - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/01/]
 ---
 
 _I Corinthians 13:5b  

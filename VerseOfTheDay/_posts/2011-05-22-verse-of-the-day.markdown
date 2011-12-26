@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 22nd - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/22/]
 ---
 
 _I Chronicles 29:17a  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 22nd - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/22/]
 ---
 
 _II Corinthians 10:18  

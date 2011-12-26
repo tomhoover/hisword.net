@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 11th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/11/]
 ---
 
 _Nehemiah 9:17b  

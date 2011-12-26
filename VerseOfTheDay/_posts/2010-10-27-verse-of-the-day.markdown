@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 27th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/27/]
 ---
 
 _II Timothy 1:5  

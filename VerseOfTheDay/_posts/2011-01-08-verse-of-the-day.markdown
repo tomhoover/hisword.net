@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 8th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/08/]
 ---
 
 _Psalm 119:81  

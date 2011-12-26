@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 9th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/09/]
 ---
 
 _Psalm 119:57  

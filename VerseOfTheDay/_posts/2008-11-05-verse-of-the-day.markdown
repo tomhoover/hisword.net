@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 5th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/05/]
 ---
 
 _Psalm 17:6  

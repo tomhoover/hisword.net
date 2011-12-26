@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 15th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/15/]
 ---
 
 _I Kings 3:13a  

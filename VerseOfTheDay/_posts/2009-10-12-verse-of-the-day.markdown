@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 12th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/12/]
 ---
 
 _Psalm 86:15  

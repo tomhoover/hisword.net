@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 23rd - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/23/]
 ---
 
 _Jeremiah 20:12  

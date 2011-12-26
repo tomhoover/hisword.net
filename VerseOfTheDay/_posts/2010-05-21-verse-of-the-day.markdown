@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 21st - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/21/]
 ---
 
 _Ecclesiastes 7:20  

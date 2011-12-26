@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 28th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/28/]
 ---
 
 _Romans 12:18  

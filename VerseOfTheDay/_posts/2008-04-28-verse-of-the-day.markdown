@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 28th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/28/]
 ---
 
 _Psalm 27:13  

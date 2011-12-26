@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 9th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/09/]
 ---
 
 _Revelation 2:10b  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 5th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/05/]
 ---
 
 _John 6:69  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 26, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/26/]
 ---
 
 _I Corinthians 10:13  

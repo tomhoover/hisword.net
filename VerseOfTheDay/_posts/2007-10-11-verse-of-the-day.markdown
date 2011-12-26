@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 11th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/11/]
 ---
 
 _Psalm 56:11  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 24th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/24/]
 ---
 
 _Romans 7:21  

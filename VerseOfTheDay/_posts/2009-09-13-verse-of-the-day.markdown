@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 13th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/13/]
 ---
 
 _Psalm 122:1  

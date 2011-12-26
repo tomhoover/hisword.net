@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 28, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/28/]
 ---
 
 _I Thessalonians 4:12  

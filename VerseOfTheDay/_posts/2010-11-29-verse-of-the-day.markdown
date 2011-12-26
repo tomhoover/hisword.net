@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 29th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/29/]
 ---
 
 _Psalm 32:7  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 5th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/05/]
 ---
 
 _Romans 14:13  

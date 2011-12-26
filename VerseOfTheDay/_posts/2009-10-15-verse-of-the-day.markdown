@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 15th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/15/]
 ---
 
 _Isaiah 30:18  

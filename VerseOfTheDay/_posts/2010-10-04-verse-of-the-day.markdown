@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 4th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/04/]
 ---
 
 _Matthew 17:20  

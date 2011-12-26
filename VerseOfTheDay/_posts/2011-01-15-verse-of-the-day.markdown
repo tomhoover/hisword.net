@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 15th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/15/]
 ---
 
 _Psalm 12:6  

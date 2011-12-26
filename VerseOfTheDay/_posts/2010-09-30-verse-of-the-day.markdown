@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 30th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/30/]
 ---
 
 _II Corinthians 1:20  

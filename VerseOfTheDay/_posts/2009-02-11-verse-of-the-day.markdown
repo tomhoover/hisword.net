@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 11th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/11/]
 ---
 
 _Romans 12:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 23rd - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/23/]
 ---
 
 _Psalm 103:11  

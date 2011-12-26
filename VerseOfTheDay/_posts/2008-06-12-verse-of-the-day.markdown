@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 12th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/12/]
 ---
 
 _Ephesians 1:2  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 13th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/13/]
 ---
 
 _Jeremiah 45:5a  

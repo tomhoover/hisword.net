@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 3rd - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/03/]
 ---
 
 _Philippians 1:6  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 17, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/17/]
 ---
 
 _Jeremiah 24:7  

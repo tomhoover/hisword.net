@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 21st - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/21/]
 ---
 
 _I Thessalonians 2:19  

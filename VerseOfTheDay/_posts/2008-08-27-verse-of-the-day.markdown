@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 27th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/27/]
 ---
 
 _I Thessalonians 5:24  

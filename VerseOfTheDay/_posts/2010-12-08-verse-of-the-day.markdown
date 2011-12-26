@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 8th - FaithLight...lighting your world through Faith in the
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/08/]
 ---
 
 _Matthew 5:15  

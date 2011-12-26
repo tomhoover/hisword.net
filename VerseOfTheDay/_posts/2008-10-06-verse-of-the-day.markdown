@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 6th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/06/]
 ---
 
 _I Corinthians 15:58  

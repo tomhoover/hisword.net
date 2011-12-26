@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 17th - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/17/]
 ---
 
 _I Peter 3:4  

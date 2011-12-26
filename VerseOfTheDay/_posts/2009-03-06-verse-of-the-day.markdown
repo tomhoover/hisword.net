@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 6th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/06/]
 ---
 
 _Zechariah 8:16  

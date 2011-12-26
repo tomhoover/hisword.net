@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 22nd - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/22/]
 ---
 
 _Colossians 3:13  

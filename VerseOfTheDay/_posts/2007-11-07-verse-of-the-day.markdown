@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 7th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/07/]
 ---
 
 _James 5:16  

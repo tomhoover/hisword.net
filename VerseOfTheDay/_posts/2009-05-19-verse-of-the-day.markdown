@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 19th - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/19/]
 ---
 
 _James 4:11  

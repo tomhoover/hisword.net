@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 17th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/17/]
 ---
 
 _Joel 2:32a  

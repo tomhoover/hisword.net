@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 12th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/12/]
 ---
 
 _Psalm 85:10  

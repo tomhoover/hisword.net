@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 30th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/30/]
 ---
 
 _Psalm 9:1  

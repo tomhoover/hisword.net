@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 1st - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/01/]
 ---
 
 _Matthew 6:33  

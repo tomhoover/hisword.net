@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 13th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/13/]
 ---
 
 _I Corinthians 3:16  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 21st - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/21/]
 ---
 
 _Psalm 75:1  

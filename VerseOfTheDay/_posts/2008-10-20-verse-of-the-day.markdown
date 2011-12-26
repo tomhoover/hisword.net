@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 20th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/20/]
 ---
 
 _Psalm 37:3  

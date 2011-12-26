@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 20th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/20/]
 ---
 
 _II Timothy 2:15  

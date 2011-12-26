@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 22nd - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/22/]
 ---
 
 _II Kings 7:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 8th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/08/]
 ---
 
 _Psalm 86:5  

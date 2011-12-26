@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 9th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/09/]
 ---
 
 _Galatians 6:9  

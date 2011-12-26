@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 9th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/09/]
 ---
 
 _Ephesians 4:26  

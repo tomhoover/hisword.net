@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 19th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/19/]
 ---
 
 _Psalm 4:8  

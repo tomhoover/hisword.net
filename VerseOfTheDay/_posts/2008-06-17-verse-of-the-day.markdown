@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 17th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/17/]
 ---
 
 _Philippians 4:7  

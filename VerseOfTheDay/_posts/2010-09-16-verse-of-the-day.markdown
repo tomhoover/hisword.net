@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 16th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/16/]
 ---
 
 _II Corinthians 4:17  

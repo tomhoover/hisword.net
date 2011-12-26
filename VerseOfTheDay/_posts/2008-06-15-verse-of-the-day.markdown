@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 15th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/15/]
 ---
 
 _Romans 10:15  

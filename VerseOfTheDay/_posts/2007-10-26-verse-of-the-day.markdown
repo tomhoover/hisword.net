@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 26th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/26/]
 ---
 
 _John 13:35  

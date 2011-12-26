@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 9th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/09/]
 ---
 
 _Romans 4:21  

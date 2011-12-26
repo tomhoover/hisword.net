@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 25th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/25/]
 ---
 
 _Luke 2:10-11  

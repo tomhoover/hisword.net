@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 17th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/17/]
 ---
 
 _Micah 7:19  

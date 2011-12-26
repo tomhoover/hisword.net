@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 14th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/14/]
 ---
 
 _Psalm 91:1  

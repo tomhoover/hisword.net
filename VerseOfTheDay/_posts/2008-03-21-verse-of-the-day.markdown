@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 21st - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/21/]
 ---
 
 _Romans 5:6  

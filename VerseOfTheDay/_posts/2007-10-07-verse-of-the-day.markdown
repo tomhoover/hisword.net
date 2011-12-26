@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 7th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/07/]
 ---
 
 _Acts 17:28a  

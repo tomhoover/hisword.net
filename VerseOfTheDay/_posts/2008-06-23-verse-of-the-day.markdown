@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 23rd - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/23/]
 ---
 
 _Isaiah 48:18  

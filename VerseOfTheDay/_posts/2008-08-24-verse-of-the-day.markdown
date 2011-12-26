@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 24th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/24/]
 ---
 
 _I Corinthians 1:9  

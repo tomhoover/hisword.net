@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 21st - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/21/]
 ---
 
 _Matthew 16:18b  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 19, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/19/]
 ---
 
 _John 8:36  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 4th - FaithWalk...taking your Faith on a journey.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/06/04/]
 ---
 
 _Psalm 86:11  

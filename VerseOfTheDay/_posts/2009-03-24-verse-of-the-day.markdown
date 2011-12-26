@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 24th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/24/]
 ---
 
 _Psalm 119:60  

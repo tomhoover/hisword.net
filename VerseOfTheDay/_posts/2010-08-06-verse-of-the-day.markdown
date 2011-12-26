@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 6th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/06/]
 ---
 
 _Romans 8:24-25  

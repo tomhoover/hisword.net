@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 28th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/28/]
 ---
 
 _Psalm 122:1  

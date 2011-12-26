@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 11th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/11/]
 ---
 
 _Deuteronomy 31:8  

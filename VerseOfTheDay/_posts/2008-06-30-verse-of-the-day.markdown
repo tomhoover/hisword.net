@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 30th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/30/]
 ---
 
 _Revelation 1:4b  

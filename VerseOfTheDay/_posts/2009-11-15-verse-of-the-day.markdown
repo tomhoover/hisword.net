@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 15th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/15/]
 ---
 
 _Psalm 40:11  

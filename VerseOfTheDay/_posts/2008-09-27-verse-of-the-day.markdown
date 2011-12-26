@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 27th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/27/]
 ---
 
 _Colossians 1:14  

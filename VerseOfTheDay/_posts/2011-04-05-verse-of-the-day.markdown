@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 5th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/05/]
 ---
 
 _Psalm 49:15  

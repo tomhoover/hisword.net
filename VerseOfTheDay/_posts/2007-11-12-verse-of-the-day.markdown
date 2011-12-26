@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 12th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/12/]
 ---
 
 _Isaiah 53:5  

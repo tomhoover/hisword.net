@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 29th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/29/]
 ---
 
 _I John 4:13  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 1st - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/01/]
 ---
 
 _Isaiah 12:2  

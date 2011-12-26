@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 8th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/08/]
 ---
 
 _I John 4:20  

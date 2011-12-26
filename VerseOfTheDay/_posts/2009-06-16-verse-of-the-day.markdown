@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 16th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/16/]
 ---
 
 _Proverbs 29:25  

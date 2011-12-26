@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 10th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/10/]
 ---
 
 _Hebrews 13:5  

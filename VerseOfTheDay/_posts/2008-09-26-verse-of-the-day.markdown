@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 26th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/26/]
 ---
 
 _Ephesians 1:7  

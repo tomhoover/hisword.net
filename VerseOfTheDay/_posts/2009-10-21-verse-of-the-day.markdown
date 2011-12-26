@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 21st - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/21/]
 ---
 
 _Colossians 1:10-11  

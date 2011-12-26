@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 7th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/07/]
 ---
 
 _I Peter 2:20  

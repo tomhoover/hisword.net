@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 29th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/29/]
 ---
 
 _Psalm 30:2  

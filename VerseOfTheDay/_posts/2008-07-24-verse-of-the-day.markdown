@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 24th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/24/]
 ---
 
 _Ezekiel 33:11  

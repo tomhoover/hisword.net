@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 29th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/29/]
 ---
 
 _Psalm 31:5  

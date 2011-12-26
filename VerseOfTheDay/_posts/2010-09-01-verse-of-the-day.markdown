@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 1st - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/01/]
 ---
 
 _I Corinthians 13:7d  

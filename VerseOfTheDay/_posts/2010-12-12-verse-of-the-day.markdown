@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 12th - FaithLight...lighting your world through Faith in
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/12/]
 ---
 
 _Matthew 4:16  

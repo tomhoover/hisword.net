@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 22nd - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/22/]
 ---
 
 _Psalm 130:5  

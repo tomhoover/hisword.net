@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 17th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/17/]
 ---
 
 _Philippians 2:5  

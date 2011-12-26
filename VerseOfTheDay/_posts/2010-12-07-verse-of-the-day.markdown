@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 7th - FaithLight...lighting your world through Faith in the
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/07/]
 ---
 
 _John 1:6-7  

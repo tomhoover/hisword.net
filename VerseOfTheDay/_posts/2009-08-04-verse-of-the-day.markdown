@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 4th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/04/]
 ---
 
 _Psalm 52:8b  

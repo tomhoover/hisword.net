@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 6th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/06/]
 ---
 
 _Matthew 7:7  

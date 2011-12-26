@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 27th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/27/]
 ---
 
 _Joshua 1:9  

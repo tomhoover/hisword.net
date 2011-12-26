@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 11th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/11/]
 ---
 
 _Exodus 14:14  

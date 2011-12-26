@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 1st - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/01/]
 ---
 
 _Philippians 4:19  

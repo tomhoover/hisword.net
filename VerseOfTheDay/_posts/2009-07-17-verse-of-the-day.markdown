@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 17th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/17/]
 ---
 
 _I Peter 3:15  

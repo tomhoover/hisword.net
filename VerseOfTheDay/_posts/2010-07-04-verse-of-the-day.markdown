@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 4th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/04/]
 ---
 
 _Galatians 5:1  

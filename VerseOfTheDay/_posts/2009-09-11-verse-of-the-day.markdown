@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 11th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/11/]
 ---
 
 _Psalm 73:17  

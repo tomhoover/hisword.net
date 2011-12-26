@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 13th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/13/]
 ---
 
 _Jeremiah 1:8  

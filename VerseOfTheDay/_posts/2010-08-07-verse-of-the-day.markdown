@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 7th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/07/]
 ---
 
 _Hebrews 11:1  

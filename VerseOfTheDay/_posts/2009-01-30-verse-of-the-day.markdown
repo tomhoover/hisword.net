@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 30th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/30/]
 ---
 
 _Psalm 17:3  

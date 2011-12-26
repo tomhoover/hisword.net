@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 14th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/14/]
 ---
 
 _Exodus 35:2a  

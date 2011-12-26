@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 13, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/13/]
 ---
 
 _Psalm 91:1-2  

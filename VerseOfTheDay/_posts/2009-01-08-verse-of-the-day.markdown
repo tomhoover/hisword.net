@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 8th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/08/]
 ---
 
 _Psalm 17:5  

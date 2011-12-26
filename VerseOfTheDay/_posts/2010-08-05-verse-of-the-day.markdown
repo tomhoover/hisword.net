@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 5th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/05/]
 ---
 
 _Psalm 42:11  

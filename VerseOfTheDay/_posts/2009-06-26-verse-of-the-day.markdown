@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 26th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/26/]
 ---
 
 _Psalm 34:22  

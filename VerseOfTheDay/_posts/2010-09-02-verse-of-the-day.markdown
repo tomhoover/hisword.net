@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 2nd - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/02/]
 ---
 
 _I Peter 1:7-8a  

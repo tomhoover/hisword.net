@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 20th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/20/]
 ---
 
 _Psalm 111:1  

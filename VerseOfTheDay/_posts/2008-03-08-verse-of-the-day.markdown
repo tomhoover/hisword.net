@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 8th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/08/]
 ---
 
 _II Peter 1:4  

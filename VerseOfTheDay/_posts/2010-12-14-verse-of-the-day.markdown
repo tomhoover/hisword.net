@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 14th - FaithLight...lighting your world through Faith in
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/14/]
 ---
 
 _John 8:12  

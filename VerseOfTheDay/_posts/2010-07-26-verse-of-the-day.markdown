@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 26th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/26/]
 ---
 
 _Psalm 46:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 8, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/08/]
 ---
 
 _II Samuel 22:29  

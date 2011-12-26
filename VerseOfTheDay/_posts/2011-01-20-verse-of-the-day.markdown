@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 20th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/20/]
 ---
 
 _Romans 10:8  

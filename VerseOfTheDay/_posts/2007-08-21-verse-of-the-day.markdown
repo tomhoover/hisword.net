@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 21, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/21/]
 ---
 
 _I Corinthians 3:16  

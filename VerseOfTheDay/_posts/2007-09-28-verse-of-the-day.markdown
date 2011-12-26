@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 28, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/28/]
 ---
 
 _Psalm 42:8  

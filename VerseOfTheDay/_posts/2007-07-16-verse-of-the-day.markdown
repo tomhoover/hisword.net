@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 16, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/16/]
 ---
 
 _II Corinthians 3:17-18  

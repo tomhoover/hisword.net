@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 28th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/28/]
 ---
 
 _Ephesians 5:20  

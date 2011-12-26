@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 2nd - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/02/]
 ---
 
 _II Timothy 3:1-4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 8th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/08/]
 ---
 
 _II Corinthians 10:4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 18th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/18/]
 ---
 
 _Isaiah 50:10  

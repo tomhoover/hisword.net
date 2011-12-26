@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 14th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/14/]
 ---
 
 _I John 3:24  

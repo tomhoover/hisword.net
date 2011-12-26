@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 31st - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/31/]
 ---
 
 _I Peter 3:8-9  

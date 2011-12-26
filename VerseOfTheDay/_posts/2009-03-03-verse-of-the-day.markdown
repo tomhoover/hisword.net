@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 3rd - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/03/]
 ---
 
 _II Corinthians 5:20  

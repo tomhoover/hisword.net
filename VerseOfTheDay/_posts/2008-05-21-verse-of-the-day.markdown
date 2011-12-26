@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 21st - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/21/]
 ---
 
 _Isaiah 40:8  

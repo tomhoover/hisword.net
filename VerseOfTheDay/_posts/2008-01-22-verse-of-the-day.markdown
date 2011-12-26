@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 22nd - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/22/]
 ---
 
 _Isaiah 40:29  

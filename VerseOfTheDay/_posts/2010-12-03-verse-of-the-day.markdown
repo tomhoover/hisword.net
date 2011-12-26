@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 3rd - FaithLight...lighting your world through Faith in the
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/03/]
 ---
 
 _Isaiah 9:2  

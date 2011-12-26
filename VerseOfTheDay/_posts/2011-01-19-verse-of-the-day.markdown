@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 19th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/19/]
 ---
 
 _Joshua 4:24  

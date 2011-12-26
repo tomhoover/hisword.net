@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 31st - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/31/]
 ---
 
 _Psalm 65:4  

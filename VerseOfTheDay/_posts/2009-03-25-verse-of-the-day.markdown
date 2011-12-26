@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 25th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/25/]
 ---
 
 _II Corinthians 2:14  

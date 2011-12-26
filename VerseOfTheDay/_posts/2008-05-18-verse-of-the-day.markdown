@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 18th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/18/]
 ---
 
 _Psalm 96:6  

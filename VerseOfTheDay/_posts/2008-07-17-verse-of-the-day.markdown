@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 17th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/17/]
 ---
 
 _Isaiah 43:11  

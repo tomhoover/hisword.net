@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 15th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/15/]
 ---
 
 _John 1:17  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 5th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/05/]
 ---
 
 _John 8:31-32  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 21st - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/21/]
 ---
 
 _Proverbs 31:26  

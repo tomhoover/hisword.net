@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 30th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/30/]
 ---
 
 _Psalm 121:1-2  

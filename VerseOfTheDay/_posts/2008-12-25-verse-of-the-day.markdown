@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 25th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/25/]
 ---
 
 _II Corinthians 9:15  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 16th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/16/]
 ---
 
 _Isaiah 51:11  

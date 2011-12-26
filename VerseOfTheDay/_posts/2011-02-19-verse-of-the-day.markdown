@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 19th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/19/]
 ---
 
 _Psalm 124:8  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 1st - FaithLine...building upon the line of Faith set before
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/03/01/]
 ---
 
 _Hebrews 12:1  

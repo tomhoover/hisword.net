@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 17th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/17/]
 ---
 
 _Proverbs 17:17  

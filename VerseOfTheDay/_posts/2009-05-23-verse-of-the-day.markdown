@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 23rd - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/23/]
 ---
 
 _Proverbs 16:20  

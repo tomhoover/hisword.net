@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 5th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/05/]
 ---
 
 _Psalm 20:7  

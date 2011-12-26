@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 21st - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/21/]
 ---
 
 _Psalm 69:16  

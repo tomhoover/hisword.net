@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 23rd - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/23/]
 ---
 
 _Psalm 133:1  

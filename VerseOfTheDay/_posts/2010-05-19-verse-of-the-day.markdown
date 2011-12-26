@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 19th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/19/]
 ---
 
 _Matthew 11:6  

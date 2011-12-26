@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 10th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/10/]
 ---
 
 _Isaiah 32:17-18  

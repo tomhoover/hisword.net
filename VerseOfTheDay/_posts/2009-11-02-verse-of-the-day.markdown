@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 2nd - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/02/]
 ---
 
 _Luke 6:35  

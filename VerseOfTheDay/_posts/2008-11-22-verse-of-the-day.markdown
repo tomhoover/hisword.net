@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 22nd - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/22/]
 ---
 
 _Ephesians 6:18  

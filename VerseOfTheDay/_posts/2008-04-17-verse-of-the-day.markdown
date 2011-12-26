@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 17th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/17/]
 ---
 
 _II Corinthians 6:18  

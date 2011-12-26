@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 24, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/24/]
 ---
 
 _Psalm 91:15-16  

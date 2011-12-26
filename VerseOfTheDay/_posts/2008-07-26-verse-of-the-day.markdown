@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 26th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/26/]
 ---
 
 _Romans 8:31-32  

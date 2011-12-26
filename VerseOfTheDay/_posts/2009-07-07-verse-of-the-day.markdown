@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 7th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/07/]
 ---
 
 _Romans 12:21  

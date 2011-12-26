@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 14th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/14/]
 ---
 
 _Matthew 9:38  

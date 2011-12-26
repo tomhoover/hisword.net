@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 11th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/11/]
 ---
 
 _I Timothy 5:8  

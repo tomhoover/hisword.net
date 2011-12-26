@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 29th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/29/]
 ---
 
 _Psalm 147:14  

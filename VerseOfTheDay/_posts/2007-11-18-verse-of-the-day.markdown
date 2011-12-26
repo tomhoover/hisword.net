@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 18th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/18/]
 ---
 
 _Matthew 4:23  

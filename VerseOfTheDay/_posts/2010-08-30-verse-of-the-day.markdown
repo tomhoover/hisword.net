@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 30th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/30/]
 ---
 
 _Romans 8:38-39  

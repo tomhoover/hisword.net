@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 5th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/05/]
 ---
 
 _I John 5:14  

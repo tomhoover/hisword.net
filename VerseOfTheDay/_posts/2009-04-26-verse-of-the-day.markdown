@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 26th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/26/]
 ---
 
 _Psalm 27:13  

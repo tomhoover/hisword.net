@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 14th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/14/]
 ---
 
 _II Kings 4:3-6  

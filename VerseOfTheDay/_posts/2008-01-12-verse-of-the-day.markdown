@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 12th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/12/]
 ---
 
 _Hebrews 1:10  

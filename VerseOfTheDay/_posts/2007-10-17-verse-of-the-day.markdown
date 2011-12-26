@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 17th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/17/]
 ---
 
 _Hebrews 10:23  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 10th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/10/]
 ---
 
 _Deuteronomy 10:12  

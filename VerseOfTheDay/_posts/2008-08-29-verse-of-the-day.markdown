@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 29th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/29/]
 ---
 
 _Revelation 2:10  

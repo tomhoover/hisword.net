@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 9th - FaithLight...lighting your world through Faith in the
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/09/]
 ---
 
 _Micah 7:8  

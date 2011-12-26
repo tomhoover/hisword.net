@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 3rd - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/03/]
 ---
 
 _Psalm 62:7  

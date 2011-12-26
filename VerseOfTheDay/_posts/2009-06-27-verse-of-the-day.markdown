@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 27th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/27/]
 ---
 
 _Psalm 64:10  

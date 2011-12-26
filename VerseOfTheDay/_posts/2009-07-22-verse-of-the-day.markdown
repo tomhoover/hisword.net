@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 22nd - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/22/]
 ---
 
 _Proverbs 15:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 17th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/17/]
 ---
 
 _Joshua 1:9  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 16th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/16/]
 ---
 
 _Psalm 141:3  

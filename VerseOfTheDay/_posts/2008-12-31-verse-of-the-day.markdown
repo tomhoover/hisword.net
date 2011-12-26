@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 31st - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/31/]
 ---
 
 _Philippians 3:13-14  

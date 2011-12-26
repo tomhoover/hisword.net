@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 3rd - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/03/]
 ---
 
 _Luke 23:34  

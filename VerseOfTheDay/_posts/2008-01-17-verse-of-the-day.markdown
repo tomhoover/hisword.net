@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 17th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/17/]
 ---
 
 _Psalm 22:19  

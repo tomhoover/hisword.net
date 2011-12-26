@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 1st - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/01/]
 ---
 
 _Deuteronomy 7:9  

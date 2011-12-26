@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 29, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/29/]
 ---
 
 _Psalm 103:11  

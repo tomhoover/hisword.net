@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 22nd - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/22/]
 ---
 
 _II Corinthians 8:9  

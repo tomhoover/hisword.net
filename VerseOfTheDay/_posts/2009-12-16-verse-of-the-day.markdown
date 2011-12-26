@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 16th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/16/]
 ---
 
 _Luke 12:15  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 2nd - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/02/]
 ---
 
 _Luke 6:30  

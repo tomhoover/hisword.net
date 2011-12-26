@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 14th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/14/]
 ---
 
 _Revelation 3:13  

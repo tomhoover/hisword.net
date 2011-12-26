@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 22, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/22/]
 ---
 
 _Psalm 84:11  

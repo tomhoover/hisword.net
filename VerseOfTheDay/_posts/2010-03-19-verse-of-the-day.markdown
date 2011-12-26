@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 19th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/19/]
 ---
 
 _Galatians 6:9  

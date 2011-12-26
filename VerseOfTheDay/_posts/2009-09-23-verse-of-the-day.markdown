@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 23rd - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/23/]
 ---
 
 _Psalm 84:10  

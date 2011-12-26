@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 14th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/14/]
 ---
 
 _John 18:36  

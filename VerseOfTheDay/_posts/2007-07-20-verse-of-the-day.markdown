@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 20, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/20/]
 ---
 
 _Philemon 4-5  

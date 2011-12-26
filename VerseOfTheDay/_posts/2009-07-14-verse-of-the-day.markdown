@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 14th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/14/]
 ---
 
 _I Peter 4:19  

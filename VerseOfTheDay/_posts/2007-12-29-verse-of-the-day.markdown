@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 29th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/29/]
 ---
 
 _Romans 15:13  

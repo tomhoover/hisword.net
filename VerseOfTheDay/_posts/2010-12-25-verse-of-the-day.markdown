@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 25th - FaithLight...lighting your world through Faith in
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/25/]
 ---
 
 _II Corinthians 4:6  

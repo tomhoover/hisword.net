@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 9th - FaithLine...building upon the line of Faith set before
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/03/09/]
 ---
 
 _Hebrews 11:11  

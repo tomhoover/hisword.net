@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 4th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/04/]
 ---
 
 _II Thessalonians 1:3  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 15th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/15/]
 ---
 
 _Ephesians 4:7  

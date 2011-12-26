@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 28th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/28/]
 ---
 
 _Romans 15:5  

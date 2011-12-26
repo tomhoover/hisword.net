@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 10th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/10/]
 ---
 
 _I Thessalonians 5:14  

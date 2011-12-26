@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 12th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/12/]
 ---
 
 _I Peter 5:7  

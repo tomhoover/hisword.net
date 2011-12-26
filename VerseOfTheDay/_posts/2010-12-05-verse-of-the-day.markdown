@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 5th - FaithLight...lighting your world through Faith in the
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/05/]
 ---
 
 _John 1:4  

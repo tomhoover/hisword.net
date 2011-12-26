@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 30th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/30/]
 ---
 
 _Isaiah 50:10  

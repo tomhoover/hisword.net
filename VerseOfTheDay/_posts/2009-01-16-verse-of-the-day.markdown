@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 16th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/16/]
 ---
 
 _Psalm 90:17  

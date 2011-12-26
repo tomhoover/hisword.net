@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 13th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/13/]
 ---
 
 _Proverbs 28:20  

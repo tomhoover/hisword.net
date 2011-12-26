@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 26th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/26/]
 ---
 
 _Jeremiah 29:11  

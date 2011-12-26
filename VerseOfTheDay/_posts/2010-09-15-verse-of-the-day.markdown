@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 15th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/15/]
 ---
 
 _II Samuel 22:33-34  

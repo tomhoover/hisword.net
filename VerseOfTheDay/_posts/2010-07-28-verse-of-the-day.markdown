@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 28th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/28/]
 ---
 
 _Psalm 103:11  

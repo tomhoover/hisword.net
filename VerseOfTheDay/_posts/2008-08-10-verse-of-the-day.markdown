@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 10th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/10/]
 ---
 
 _Job 19:25  

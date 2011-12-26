@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 12th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/12/]
 ---
 
 _Matthew 19:19  

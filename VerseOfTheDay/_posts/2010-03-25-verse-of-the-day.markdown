@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 25th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/25/]
 ---
 
 _Matthew 5:42  

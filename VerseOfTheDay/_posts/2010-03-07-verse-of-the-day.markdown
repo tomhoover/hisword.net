@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 7th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/07/]
 ---
 
 _John 3:16  

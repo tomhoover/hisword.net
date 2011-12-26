@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 13, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/13/]
 ---
 
 _Isaiah 11:6  

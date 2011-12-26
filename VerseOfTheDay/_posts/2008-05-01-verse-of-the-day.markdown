@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 1st - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/01/]
 ---
 
 _Deuteronomy 20:3-4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 27th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/27/]
 ---
 
 _Acts 5:41-42  

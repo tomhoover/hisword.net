@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 1st - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/01/]
 ---
 
 _Romans 13:12  

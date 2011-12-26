@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 11th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/11/]
 ---
 
 _II Corinthians 12:9  

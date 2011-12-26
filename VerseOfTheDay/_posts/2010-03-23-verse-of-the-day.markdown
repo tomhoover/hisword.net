@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 23rd - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/23/]
 ---
 
 _II Corinthians 5:7  

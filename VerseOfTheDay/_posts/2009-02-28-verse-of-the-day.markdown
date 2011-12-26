@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 28th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/28/]
 ---
 
 _I Corinthians 13:13  

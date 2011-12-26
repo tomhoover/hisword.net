@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 26th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/26/]
 ---
 
 _Proverbs 17:17  

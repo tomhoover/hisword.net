@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 1st - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/01/]
 ---
 
 _Psalm 46:1  

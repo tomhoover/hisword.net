@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 13th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/13/]
 ---
 
 _Romans 10:1  

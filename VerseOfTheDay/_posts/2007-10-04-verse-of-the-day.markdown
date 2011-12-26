@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 4th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/04/]
 ---
 
 _Psalm 8:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 21st - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/21/]
 ---
 
 _Matthew 5:10  

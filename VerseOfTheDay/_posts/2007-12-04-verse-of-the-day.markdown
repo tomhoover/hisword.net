@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 4th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/04/]
 ---
 
 _Ephesians 1:3  

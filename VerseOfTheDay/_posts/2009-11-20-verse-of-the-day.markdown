@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 20th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/20/]
 ---
 
 _II Peter 2:9  

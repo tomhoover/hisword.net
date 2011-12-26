@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 30, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/30/]
 ---
 
 _I Thessalonians 5:5  

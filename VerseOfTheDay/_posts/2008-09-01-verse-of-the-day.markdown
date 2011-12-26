@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 1st - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/01/]
 ---
 
 _Nehemiah 9:17  

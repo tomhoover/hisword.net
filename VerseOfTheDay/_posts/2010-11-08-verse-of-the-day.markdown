@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 8th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/08/]
 ---
 
 _II Corinthians 3:18  

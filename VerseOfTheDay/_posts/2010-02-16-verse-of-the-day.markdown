@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 16th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/16/]
 ---
 
 _II Timothy 2:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 10th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/10/]
 ---
 
 _Philippians 2:5-7  

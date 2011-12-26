@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 11th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/11/]
 ---
 
 _Deuteronomy 30:14  

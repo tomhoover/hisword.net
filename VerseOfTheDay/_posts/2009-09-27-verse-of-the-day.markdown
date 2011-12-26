@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 27th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/27/]
 ---
 
 _Ephesians 5:19  

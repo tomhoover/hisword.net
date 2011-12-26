@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 4, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/04/]
 ---
 
 _Psalm 107:8-9  

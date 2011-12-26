@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 1st - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/01/]
 ---
 
 _I Corinthians 13:5c  

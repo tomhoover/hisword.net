@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 1st - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/01/]
 ---
 
 _I Corinthians 13:4b  

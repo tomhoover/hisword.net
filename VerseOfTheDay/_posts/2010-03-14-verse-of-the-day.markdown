@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 14th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/14/]
 ---
 
 _Psalm 29:2  

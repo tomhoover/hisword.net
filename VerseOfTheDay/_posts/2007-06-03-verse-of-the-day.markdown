@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 3, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/03/]
 ---
 
 _Psalm 136:7-9  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 14th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/14/]
 ---
 
 _I John 2:4  

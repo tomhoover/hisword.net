@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 10th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/10/]
 ---
 
 _I Peter 4:16  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 7th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/07/]
 ---
 
 _Jeremiah 31:3  

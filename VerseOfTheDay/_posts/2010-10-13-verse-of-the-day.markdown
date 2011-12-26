@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 13th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/13/]
 ---
 
 _Matthew 9:29  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 20th - God&rsquo;s Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/20/]
 ---
 
 _Psalm 51:11  

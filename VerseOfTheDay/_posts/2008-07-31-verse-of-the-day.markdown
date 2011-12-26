@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 31st - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/31/]
 ---
 
 _I Timothy 2:3-4  

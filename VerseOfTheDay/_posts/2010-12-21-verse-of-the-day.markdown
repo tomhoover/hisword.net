@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 21st - FaithLight...lighting your world through Faith in
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/21/]
 ---
 
 _Ephesians 5:8  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 1st - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/01/]
 ---
 
 _Hebrews 11:6  

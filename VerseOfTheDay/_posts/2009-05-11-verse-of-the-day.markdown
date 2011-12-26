@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 11th - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/11/]
 ---
 
 _Matthew 6:25  

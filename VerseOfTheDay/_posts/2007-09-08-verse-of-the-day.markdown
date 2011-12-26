@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 8, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/08/]
 ---
 
 _Philippians 4:13  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 31st - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/31/]
 ---
 
 _Ephesians 5:2  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 24th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/24/]
 ---
 
 _Proverbs 3:26  

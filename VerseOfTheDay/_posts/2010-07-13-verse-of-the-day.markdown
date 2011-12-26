@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 13th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/13/]
 ---
 
 _Psalm 31:23  

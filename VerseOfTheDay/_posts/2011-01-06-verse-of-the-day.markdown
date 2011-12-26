@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 6th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/06/]
 ---
 
 _Luke 11:28  

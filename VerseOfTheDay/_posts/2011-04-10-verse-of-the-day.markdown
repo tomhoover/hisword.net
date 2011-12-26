@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 10th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/10/]
 ---
 
 _Psalm 63:2  

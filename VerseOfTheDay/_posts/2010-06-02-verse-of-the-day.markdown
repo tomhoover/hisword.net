@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 2nd - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/02/]
 ---
 
 _II Corinthians 13:8  

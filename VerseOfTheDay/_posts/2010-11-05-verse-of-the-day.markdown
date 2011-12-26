@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 5th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/05/]
 ---
 
 _Galatians 5:22-23  

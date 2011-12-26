@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 9th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/09/]
 ---
 
 _Lamentations 3:22-23  

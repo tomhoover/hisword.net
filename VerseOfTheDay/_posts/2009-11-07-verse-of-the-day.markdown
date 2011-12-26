@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 7th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/07/]
 ---
 
 _Matthew 5:11-12  

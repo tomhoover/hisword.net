@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 24th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/24/]
 ---
 
 _Psalm 64:10  

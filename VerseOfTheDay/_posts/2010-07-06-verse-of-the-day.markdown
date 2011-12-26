@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 6th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/06/]
 ---
 
 _I John 5:14  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 6th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/06/]
 ---
 
 _II Corinthians 5:17  

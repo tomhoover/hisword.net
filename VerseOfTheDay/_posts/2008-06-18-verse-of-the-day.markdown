@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 18th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/18/]
 ---
 
 _Psalm 16:11  

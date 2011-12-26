@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 13th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/13/]
 ---
 
 _Psalm 130:6  

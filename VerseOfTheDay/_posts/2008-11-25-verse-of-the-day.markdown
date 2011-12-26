@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 25th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/25/]
 ---
 
 _Ephesians 1:3  

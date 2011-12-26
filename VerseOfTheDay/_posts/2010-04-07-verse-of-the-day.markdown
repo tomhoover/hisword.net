@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 7th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/07/]
 ---
 
 _Job 5:2  

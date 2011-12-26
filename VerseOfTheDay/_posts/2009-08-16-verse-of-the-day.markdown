@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 16th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/16/]
 ---
 
 _Romans 12:2  

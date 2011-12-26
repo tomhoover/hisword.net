@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 26th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/26/]
 ---
 
 _Hebrews 4:16  

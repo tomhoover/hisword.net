@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 28th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/28/]
 ---
 
 _Psalm 130:3-4  

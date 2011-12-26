@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 18th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/18/]
 ---
 
 _Psalm 138:8  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 10, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/10/]
 ---
 
 _John 14:1  

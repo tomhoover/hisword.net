@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 12th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/12/]
 ---
 
 _Luke 16:10  

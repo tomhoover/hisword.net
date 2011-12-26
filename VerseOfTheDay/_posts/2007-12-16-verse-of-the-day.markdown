@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 16th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/16/]
 ---
 
 _Malachi 3:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 7th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/07/]
 ---
 
 _I Peter 3:8-9  

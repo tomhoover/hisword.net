@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 9th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/09/]
 ---
 
 _Luke 18:1b  

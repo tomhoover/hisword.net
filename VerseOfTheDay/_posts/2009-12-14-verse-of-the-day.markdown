@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 14th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/14/]
 ---
 
 _Mark 8:36-37  

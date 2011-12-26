@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 2nd - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/02/]
 ---
 
 _II Corinthians 3:18  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 26th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/26/]
 ---
 
 _I Corinthians 10:13  

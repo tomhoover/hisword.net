@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 5th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/05/]
 ---
 
 _Proverbs 15:1  

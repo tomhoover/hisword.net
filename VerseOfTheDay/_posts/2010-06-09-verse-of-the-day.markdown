@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 9th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/09/]
 ---
 
 _Proverbs 16:6  

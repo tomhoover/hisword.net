@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 23rd - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/23/]
 ---
 
 _Ephesians 2:8  

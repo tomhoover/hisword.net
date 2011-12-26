@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 14th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/14/]
 ---
 
 _Isaiah 57:15  

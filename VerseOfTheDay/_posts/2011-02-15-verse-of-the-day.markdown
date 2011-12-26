@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 15th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/15/]
 ---
 
 _John 15:12  

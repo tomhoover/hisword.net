@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 12th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/12/]
 ---
 
 _Deuteronomy 6:4-6  

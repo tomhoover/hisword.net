@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 22nd - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/22/]
 ---
 
 _I Corinthians 16:2  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 8th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/08/]
 ---
 
 _I John 4:8  

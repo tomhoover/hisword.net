@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 10th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/10/]
 ---
 
 _Joshua 24:15b  

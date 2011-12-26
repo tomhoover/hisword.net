@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 4th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/04/]
 ---
 
 _Song of Solomon 2:4  

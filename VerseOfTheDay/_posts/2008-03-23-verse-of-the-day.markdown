@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 23rd - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/23/]
 ---
 
 _Philippians 3:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 2nd - FaithWalk...taking your Faith on a journey.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/06/02/]
 ---
 
 _Psalm 26:11  

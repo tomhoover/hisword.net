@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 10th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/10/]
 ---
 
 _I Peter 1:25  

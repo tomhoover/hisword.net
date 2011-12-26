@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 1st - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/01/]
 ---
 
 _I John 3:24  

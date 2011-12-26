@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 24th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/24/]
 ---
 
 _Ecclesiastes 9:10  

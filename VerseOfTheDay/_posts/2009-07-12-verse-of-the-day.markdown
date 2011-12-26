@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 12th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/12/]
 ---
 
 _Galatians 6:7  

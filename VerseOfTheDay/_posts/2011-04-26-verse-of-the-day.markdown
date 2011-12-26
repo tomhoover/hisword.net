@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 26th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/26/]
 ---
 
 _Romans 12:21  

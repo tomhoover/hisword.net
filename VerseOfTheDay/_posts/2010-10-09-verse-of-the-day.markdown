@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 9th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/09/]
 ---
 
 _Isaiah 12:2  

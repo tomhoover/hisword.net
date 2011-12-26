@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 5th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/05/]
 ---
 
 _Acts 20:35  

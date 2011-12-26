@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 18th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/18/]
 ---
 
 _Ephesians 1:19  

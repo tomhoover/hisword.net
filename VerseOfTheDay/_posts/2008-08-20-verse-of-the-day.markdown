@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 20th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/20/]
 ---
 
 _Hebrews 11:1  

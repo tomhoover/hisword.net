@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 7th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/07/]
 ---
 
 _Psalm 60:4  

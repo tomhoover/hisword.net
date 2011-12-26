@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 14th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/14/]
 ---
 
 _John 13:34  

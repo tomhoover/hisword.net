@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 11th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/11/]
 ---
 
 _II Chronicles 7:14  

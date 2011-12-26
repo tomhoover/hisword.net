@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 22nd - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/22/]
 ---
 
 _Psalm 25:11  

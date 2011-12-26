@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 21st - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/21/]
 ---
 
 _Hebrews 13:16  

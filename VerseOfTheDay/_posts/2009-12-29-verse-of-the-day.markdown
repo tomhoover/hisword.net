@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 29th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/29/]
 ---
 
 _Isaiah 35:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 2nd - God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/02/]
 ---
 
 _Genesis 16:13  

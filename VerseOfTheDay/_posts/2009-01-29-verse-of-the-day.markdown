@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 29th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/29/]
 ---
 
 _Romans 12:1  

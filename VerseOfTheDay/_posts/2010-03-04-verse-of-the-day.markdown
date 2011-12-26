@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 4th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/04/]
 ---
 
 _Acts 20:35b  

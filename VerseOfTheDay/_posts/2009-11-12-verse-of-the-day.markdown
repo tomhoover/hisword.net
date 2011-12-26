@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 12th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/12/]
 ---
 
 _Psalm 119:76  

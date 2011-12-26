@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 5th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/05/]
 ---
 
 _Isaiah 49:10  

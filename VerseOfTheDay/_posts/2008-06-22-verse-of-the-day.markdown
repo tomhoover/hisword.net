@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 22nd - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/22/]
 ---
 
 _Psalm 55:18  

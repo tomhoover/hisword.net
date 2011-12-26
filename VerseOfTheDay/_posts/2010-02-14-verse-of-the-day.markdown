@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 14th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/14/]
 ---
 
 _John 15:13  

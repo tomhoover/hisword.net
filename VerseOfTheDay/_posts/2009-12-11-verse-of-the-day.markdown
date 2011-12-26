@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 11th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/11/]
 ---
 
 _John 17:3  

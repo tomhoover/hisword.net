@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 25th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/25/]
 ---
 
 _I Corinthians 4:2  

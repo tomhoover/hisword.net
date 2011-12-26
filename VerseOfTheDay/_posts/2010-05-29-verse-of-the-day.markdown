@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 29th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/29/]
 ---
 
 _I Thessalonians 5:22  

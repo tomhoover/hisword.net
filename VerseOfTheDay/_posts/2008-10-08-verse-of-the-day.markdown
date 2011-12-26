@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 8th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/08/]
 ---
 
 _Genesis 28:15a  

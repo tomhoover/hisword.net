@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 18th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/18/]
 ---
 
 _Hebrews 6:11  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 28th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/28/]
 ---
 
 _Ephesians 6:23  

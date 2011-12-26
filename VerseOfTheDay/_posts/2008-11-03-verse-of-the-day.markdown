@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 3rd - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/03/]
 ---
 
 _Matthew 7:11  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 16th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/16/]
 ---
 
 _Psalm 32:8  

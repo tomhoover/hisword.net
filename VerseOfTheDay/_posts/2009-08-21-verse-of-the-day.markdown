@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 21st - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/21/]
 ---
 
 _Proverbs 20:24  

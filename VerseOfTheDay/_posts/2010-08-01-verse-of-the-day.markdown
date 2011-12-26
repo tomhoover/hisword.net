@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 1st - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/01/]
 ---
 
 _I Corinthians 13:7b  

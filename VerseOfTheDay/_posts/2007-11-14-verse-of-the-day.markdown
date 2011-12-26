@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 14th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/14/]
 ---
 
 _I Corinthians 10:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 7th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/07/]
 ---
 
 _Isaiah 12:2  

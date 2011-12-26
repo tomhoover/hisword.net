@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 4, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/04/]
 ---
 
 _Revelation 2:26-28  

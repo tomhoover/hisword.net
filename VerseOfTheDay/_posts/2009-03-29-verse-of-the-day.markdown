@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 29th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/29/]
 ---
 
 _Ephesians 2:8-9  

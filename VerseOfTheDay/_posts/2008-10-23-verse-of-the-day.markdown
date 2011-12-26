@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 23rd - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/23/]
 ---
 
 _Psalm 68:19  

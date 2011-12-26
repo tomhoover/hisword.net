@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 22nd - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/22/]
 ---
 
 _Luke 15:7  

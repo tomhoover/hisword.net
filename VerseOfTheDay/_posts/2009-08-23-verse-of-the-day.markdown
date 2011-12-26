@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 23rd - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/23/]
 ---
 
 _Galatians 6:9  

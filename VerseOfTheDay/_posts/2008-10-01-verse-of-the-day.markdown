@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 1st - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/01/]
 ---
 
 _Romans 12:11  

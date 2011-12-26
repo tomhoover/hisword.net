@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 27th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/27/]
 ---
 
 _Romans 5:11  

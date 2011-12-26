@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 30, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/30/]
 ---
 
 _Hebrews 4:16  

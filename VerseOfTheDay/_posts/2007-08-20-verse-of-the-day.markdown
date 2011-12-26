@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 20, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/20/]
 ---
 
 _Psalm 100:3  

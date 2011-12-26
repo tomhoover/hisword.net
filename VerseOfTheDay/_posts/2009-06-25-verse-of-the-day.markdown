@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 25th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/25/]
 ---
 
 _Psalm 16:7  

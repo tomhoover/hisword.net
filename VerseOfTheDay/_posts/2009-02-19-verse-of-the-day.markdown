@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 19th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/19/]
 ---
 
 _James 3:2  

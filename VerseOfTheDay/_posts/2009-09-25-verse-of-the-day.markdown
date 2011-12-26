@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 25th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/25/]
 ---
 
 _John 6:28-29  

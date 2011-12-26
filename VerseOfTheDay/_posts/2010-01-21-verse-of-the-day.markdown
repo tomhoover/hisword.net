@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 21st - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/21/]
 ---
 
 _Romans 14:8  

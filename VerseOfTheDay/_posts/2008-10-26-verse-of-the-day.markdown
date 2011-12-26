@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 26th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/26/]
 ---
 
 _Psalm 57:2  

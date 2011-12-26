@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 13th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/13/]
 ---
 
 _Matthew 10:34  

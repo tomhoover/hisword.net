@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 18th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/18/]
 ---
 
 _Matthew 16:26  

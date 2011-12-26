@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 2nd - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/02/]
 ---
 
 _Ephesians 3:20-21  

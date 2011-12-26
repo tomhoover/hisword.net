@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 15, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/15/]
 ---
 
 _Luke 11:9-10  

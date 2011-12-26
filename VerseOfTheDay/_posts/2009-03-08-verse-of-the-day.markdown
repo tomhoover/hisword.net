@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 8th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/08/]
 ---
 
 _James 4:14  

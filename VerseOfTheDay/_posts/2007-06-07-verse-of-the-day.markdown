@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 7, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/07/]
 ---
 
 _Isaiah 49:10  

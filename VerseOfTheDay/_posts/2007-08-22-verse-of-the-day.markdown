@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 22, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/22/]
 ---
 
 _John 14:16-17  

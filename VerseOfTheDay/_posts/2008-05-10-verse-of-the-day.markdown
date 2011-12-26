@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 10th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/10/]
 ---
 
 _Isaiah 25:8  

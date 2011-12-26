@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 5th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/05/]
 ---
 
 _II Corinthians 7:10  

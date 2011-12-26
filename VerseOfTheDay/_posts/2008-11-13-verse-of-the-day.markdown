@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 13th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/13/]
 ---
 
 _Matthew 26:41  

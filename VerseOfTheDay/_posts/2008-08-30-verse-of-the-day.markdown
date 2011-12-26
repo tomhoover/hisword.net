@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 30th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/30/]
 ---
 
 _Revelation 21:5  

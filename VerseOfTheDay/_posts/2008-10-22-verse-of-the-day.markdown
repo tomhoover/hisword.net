@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 22nd - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/22/]
 ---
 
 _John 4:34  

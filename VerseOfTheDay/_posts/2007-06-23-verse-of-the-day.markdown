@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 23, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/23/]
 ---
 
 _Isaiah 42:16  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 21st - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/21/]
 ---
 
 _Revelation 1:3  

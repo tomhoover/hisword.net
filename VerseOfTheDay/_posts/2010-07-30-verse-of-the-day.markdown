@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 30th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/30/]
 ---
 
 _Psalm 91:4  

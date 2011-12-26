@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 12th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/12/]
 ---
 
 _Psalm 40:8  

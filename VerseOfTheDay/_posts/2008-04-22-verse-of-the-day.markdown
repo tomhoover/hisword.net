@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 22nd- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/22/]
 ---
 
 _Psalm 17:8  

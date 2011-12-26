@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 13, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/13/]
 ---
 
 _John 16:13  

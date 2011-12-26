@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 1st - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/01/]
 ---
 
 _Philippians 1:6  

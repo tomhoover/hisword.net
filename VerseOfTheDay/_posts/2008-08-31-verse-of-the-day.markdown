@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 31st - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/31/]
 ---
 
 _Matthew 25:21  

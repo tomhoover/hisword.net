@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 23rd - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/23/]
 ---
 
 _Psalm 119:88  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 23rd - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/23/]
 ---
 
 _Proverbs 21:23  

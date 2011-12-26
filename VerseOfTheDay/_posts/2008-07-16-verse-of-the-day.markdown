@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 16th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/16/]
 ---
 
 _Psalm 118:21  

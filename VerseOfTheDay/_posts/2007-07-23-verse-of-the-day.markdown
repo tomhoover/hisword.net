@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 23, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/23/]
 ---
 
 _Matthew 4:16  

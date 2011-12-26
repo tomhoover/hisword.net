@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 28th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/28/]
 ---
 
 _Romans 9:1  

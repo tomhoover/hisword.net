@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 29th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/29/]
 ---
 
 _Philippians 4:11  

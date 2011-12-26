@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 10th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/10/]
 ---
 
 _II Peter 3:9  

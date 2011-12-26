@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 15th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/15/]
 ---
 
 _Psalm 36:7  

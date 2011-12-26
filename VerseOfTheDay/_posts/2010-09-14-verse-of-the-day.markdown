@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 14th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/14/]
 ---
 
 _I Corinthians 1:5a  

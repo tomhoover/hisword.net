@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 31st - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/31/]
 ---
 
 _I John 2:25  

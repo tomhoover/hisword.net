@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 16th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/16/]
 ---
 
 _I Corinthians 6:14  

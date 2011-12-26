@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 20th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/20/]
 ---
 
 _Psalm 119:116  

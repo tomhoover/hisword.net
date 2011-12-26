@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 31st - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/31/]
 ---
 
 _Lamentations 3:25  

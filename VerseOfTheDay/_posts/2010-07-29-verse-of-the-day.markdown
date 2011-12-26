@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 29th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/29/]
 ---
 
 _Proverbs 27:17  

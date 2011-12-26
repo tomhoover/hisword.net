@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 13th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/13/]
 ---
 
 _I Peter 5:6  

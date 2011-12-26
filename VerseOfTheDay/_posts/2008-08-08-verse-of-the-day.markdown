@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 8th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/08/]
 ---
 
 _II Corinthians 2:14  

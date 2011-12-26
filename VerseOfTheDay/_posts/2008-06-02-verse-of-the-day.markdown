@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 2nd - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/02/]
 ---
 
 _Isaiah 26:3  

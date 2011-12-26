@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 22, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/22/]
 ---
 
 _Revelation 21:23  

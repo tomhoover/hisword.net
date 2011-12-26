@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 26th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/26/]
 ---
 
 _Proverbs 1:5  

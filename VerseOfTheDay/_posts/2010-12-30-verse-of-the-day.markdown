@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 30th - FaithLight...lighting your world through Faith in
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/12/30/]
 ---
 
 _Psalm 27:1  

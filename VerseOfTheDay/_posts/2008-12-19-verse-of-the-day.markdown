@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 19th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/19/]
 ---
 
 _Luke 1:37  

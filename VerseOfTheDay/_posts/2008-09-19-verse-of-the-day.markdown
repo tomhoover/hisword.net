@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 19th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/19/]
 ---
 
 _Psalm 103:2-3  

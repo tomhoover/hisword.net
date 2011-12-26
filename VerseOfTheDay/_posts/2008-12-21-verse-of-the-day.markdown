@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 21st - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/21/]
 ---
 
 _Philippians 2:6-7  

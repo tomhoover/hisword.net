@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 22nd - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/22/]
 ---
 
 _Psalm 36:10  

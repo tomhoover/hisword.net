@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 10th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/10/]
 ---
 
 _Song of Solomon 8:6  

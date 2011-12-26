@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 30th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/30/]
 ---
 
 _Hebrews 6:10  

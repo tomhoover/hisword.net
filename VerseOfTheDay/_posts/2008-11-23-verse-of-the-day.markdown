@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 23rd - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/23/]
 ---
 
 _I Corinthians 11:24  

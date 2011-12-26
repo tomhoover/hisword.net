@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 24th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/24/]
 ---
 
 _John 15:7  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 9, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/09/]
 ---
 
 _I Corinthians 2:9  

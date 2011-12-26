@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 24th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/24/]
 ---
 
 _Philippians 4:9  

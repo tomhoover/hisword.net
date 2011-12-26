@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 29th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/29/]
 ---
 
 _Romans 12:21  

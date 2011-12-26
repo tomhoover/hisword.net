@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 4th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/04/]
 ---
 
 _Philippians 2:17  

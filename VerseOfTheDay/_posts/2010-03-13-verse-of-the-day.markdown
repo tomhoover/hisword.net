@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 13th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/13/]
 ---
 
 _Romans 12:3  

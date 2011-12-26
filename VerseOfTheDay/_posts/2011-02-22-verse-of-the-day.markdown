@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 22nd - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/22/]
 ---
 
 _Psalm 91:4  

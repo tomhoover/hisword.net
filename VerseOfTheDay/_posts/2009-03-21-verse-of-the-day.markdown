@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 21st - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/21/]
 ---
 
 _Psalm 147:3  

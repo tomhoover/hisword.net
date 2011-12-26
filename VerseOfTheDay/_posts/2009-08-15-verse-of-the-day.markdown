@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 15th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/15/]
 ---
 
 _Deuteronomy 31:6  

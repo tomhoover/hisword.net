@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 14, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/14/]
 ---
 
 _II Chronicles 7:14  

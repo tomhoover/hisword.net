@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 4, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/04/]
 ---
 
 _Romans 13:12  

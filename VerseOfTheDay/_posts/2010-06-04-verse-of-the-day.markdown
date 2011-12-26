@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 4th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/04/]
 ---
 
 _Philippians 1:18  

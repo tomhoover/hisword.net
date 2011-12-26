@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 3rd - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/03/]
 ---
 
 _Proverbs 25:21-22  

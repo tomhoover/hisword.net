@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 23rd - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/23/]
 ---
 
 _James 1:18  

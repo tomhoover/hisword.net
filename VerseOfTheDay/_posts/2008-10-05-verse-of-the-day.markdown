@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 5th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/05/]
 ---
 
 _Nahum 1:7  

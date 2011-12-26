@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 17th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/17/]
 ---
 
 _James 5:11  

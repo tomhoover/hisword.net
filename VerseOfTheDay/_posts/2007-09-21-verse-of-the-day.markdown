@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 21, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/21/]
 ---
 
 _I Thessalonians 5:16-18  

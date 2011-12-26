@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 12th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/12/]
 ---
 
 _I Peter 3:7  

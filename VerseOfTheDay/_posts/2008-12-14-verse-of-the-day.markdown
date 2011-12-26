@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 14th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/14/]
 ---
 
 _Psalm 145:16  

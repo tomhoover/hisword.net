@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 12th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/12/]
 ---
 
 _James 1:4  

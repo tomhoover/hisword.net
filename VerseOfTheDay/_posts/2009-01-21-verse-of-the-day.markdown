@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 21st - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/21/]
 ---
 
 _II Timothy 2:3  

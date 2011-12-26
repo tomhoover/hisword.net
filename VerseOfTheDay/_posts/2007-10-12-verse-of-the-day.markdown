@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 12th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/12/]
 ---
 
 _Psalm 54:6  

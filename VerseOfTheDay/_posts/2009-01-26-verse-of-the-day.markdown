@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 26th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/26/]
 ---
 
 _James 1:22  

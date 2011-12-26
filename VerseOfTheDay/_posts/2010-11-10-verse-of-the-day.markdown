@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 10th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/10/]
 ---
 
 _I Peter 2:1-3  

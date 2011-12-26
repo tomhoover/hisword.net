@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 19th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/19/]
 ---
 
 _Colossians 3:12  

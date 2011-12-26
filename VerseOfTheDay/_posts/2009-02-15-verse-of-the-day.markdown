@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 15th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/15/]
 ---
 
 _Ephesians 4:32  

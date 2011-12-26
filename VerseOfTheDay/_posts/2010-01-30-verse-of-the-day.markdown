@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 30th - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/30/]
 ---
 
 _Galatians 5:26  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 23rd - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/23/]
 ---
 
 _Psalm 9:11  

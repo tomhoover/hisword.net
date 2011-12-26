@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 12th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/12/]
 ---
 
 _I Corinthians 15:20  

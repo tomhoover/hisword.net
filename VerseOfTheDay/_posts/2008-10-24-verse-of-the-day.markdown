@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 24th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/24/]
 ---
 
 _I Thessalonians 1:3  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 8th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/08/]
 ---
 
 _Proverbs 23:26  

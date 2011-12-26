@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 12th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/12/]
 ---
 
 _Psalm 127:1  

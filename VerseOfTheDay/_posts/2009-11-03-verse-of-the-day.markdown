@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 3rd - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/03/]
 ---
 
 _Ephesians 4:32  

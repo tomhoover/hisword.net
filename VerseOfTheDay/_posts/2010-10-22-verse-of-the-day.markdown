@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 22nd - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/22/]
 ---
 
 _Galatians 3:9  

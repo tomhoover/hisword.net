@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 27, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/27/]
 ---
 
 _Psalm 4:7-8  

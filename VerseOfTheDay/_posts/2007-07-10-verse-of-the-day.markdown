@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 10, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/10/]
 ---
 
 _Luke 5:31-32  

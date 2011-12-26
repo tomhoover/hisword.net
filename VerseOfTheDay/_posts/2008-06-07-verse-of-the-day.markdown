@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 7th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/07/]
 ---
 
 _Psalm 122:6  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 26th - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/26/]
 ---
 
 _II Corinthians 4:7  

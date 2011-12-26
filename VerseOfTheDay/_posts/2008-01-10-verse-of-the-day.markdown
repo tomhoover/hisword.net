@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 10th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/10/]
 ---
 
 _Ephesians 6:10  

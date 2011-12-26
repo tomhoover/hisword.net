@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 26th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/26/]
 ---
 
 _Hebrews 2:9  

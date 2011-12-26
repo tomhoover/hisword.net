@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 9th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/09/]
 ---
 
 _I Peter 4:12-13  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 21st - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/21/]
 ---
 
 _Psalm 25:5  

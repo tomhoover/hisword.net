@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 19th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/19/]
 ---
 
 _Philippians 4:6  

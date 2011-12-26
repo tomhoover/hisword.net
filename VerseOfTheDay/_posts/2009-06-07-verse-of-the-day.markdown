@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 7th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/07/]
 ---
 
 _Matthew 17:20b  

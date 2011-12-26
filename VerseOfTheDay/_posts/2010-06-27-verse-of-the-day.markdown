@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 27th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/27/]
 ---
 
 _I Thessalonians 2:13  

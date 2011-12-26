@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 11th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/11/]
 ---
 
 _Hebrews 13:5  

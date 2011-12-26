@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 3rd - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/03/]
 ---
 
 _Jeremiah 31:3  

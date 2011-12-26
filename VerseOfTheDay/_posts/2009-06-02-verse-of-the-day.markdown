@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 2nd - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/02/]
 ---
 
 _Isaiah 40:30-31  

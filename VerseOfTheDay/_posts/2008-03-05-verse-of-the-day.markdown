@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 5th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/05/]
 ---
 
 _Galatians 3:16  

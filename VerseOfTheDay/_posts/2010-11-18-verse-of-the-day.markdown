@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 18th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/18/]
 ---
 
 _Psalm 51:6  

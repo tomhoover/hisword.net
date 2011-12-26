@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 3rd - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/03/]
 ---
 
 _Romans 15:13  

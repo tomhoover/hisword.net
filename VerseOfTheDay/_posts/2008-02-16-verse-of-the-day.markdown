@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 16th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/16/]
 ---
 
 _Exodus 33:14  

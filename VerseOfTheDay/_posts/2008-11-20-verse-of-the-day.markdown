@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 20th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/20/]
 ---
 
 _James 5:16b  

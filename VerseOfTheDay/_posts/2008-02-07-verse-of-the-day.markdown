@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 7th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/07/]
 ---
 
 _Isaiah 46:4  

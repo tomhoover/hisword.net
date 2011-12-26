@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 7th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/07/]
 ---
 
 _Acts 1:8  

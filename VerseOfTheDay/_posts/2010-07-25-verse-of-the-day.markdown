@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 25th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/25/]
 ---
 
 _Isaiah 32:18  

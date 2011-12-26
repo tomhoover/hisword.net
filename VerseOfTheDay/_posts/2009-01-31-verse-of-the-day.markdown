@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 31st - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/31/]
 ---
 
 _II Chronicles 29:11a  

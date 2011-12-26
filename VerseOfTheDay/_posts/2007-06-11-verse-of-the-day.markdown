@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 11, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/11/]
 ---
 
 _Psalm 32:8  

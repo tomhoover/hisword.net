@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 16th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/16/]
 ---
 
 _I Corinthians 9:27  

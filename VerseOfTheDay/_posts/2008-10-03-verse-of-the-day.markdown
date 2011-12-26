@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 3rd - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/03/]
 ---
 
 _Matthew 6:24  

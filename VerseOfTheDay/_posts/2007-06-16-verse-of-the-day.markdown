@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 16, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/16/]
 ---
 
 _Psalm 119:135  

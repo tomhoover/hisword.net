@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 18th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/18/]
 ---
 
 _Psalm 28:8  

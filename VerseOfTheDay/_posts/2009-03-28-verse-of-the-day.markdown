@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 28th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/28/]
 ---
 
 _II Corinthians 4:7  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 25th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/25/]
 ---
 
 _Galatians 5:1  

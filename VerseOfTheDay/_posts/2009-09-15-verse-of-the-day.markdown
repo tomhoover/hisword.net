@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 15th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/15/]
 ---
 
 _Romans 12:4  

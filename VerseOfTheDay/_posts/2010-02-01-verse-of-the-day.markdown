@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 1st - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/01/]
 ---
 
 _I Corinthians 13:5a  

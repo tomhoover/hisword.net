@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 23rd - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/23/]
 ---
 
 _Psalm 27:1  

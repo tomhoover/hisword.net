@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 7th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/07/]
 ---
 
 _James 4:17  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 31st - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/31/]
 ---
 
 _Acts 26:22a  

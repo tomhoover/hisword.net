@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 15th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/15/]
 ---
 
 _Matthew 4:10b  

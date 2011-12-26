@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 26th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/26/]
 ---
 
 _I Thessalonians 5:15  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 28th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/28/]
 ---
 
 _II Peter 3:9  

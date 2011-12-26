@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 11th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/11/]
 ---
 
 _Isaiah 40:31  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 8th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/08/]
 ---
 
 _Psalm 48:9  

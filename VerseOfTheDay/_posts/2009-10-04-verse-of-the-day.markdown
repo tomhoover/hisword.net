@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 4th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/04/]
 ---
 
 _Ephesians 4:2  

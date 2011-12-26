@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 6th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/06/]
 ---
 
 _Job 13:15  

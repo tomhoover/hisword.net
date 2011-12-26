@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 4th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/04/]
 ---
 
 _II Corinthians 9:8  

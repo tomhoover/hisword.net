@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 20th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/20/]
 ---
 
 _II Corinthians 4:16  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 21st - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/21/]
 ---
 
 _Psalm 18:3  

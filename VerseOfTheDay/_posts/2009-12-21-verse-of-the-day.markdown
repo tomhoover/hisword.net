@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 21st - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/21/]
 ---
 
 _Jeremiah 6:13a  

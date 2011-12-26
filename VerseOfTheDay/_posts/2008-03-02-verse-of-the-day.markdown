@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 2nd - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/02/]
 ---
 
 _II Corinthians 1:20  

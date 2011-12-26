@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 27th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/27/]
 ---
 
 _Romans 8:28  

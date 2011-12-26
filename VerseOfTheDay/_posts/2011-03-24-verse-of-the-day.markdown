@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 24th - FaithLine...building upon the line of Faith set before
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/03/24/]
 ---
 
 _Psalm 119:90  

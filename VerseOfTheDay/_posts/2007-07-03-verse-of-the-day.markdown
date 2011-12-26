@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 3, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/03/]
 ---
 
 _II Corinthians 4:6  

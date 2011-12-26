@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 10th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/10/]
 ---
 
 _Psalm 141:3  

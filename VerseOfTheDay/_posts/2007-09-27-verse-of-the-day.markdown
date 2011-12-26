@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 27, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/27/]
 ---
 
 _II Thessalonians 2:16-17  

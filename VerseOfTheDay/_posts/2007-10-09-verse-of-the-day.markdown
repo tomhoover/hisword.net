@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 9th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/09/]
 ---
 
 _Proverbs 3:5-6  

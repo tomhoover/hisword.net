@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 26th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/26/]
 ---
 
 _Colossians 1:5-6  

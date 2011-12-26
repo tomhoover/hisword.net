@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 5th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/05/]
 ---
 
 _Ephesians 4:32  

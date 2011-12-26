@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 27th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/27/]
 ---
 
 _Isaiah 40:11  

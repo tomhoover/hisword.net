@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 13, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/13/]
 ---
 
 _John 10:27  

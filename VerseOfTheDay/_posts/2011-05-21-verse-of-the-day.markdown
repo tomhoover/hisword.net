@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 21st - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/21/]
 ---
 
 _James 1:12  

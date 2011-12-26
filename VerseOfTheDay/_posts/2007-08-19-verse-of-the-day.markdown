@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 19, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/19/]
 ---
 
 _Philippians 2:4-5  

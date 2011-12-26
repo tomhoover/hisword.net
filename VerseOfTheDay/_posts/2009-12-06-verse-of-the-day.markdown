@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 6th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/06/]
 ---
 
 _Ezekiel 33:31  

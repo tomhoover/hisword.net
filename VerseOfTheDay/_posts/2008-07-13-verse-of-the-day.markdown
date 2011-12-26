@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 13th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/13/]
 ---
 
 _Romans 10:9  

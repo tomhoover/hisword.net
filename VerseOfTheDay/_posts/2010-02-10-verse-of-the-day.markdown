@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 10th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/10/]
 ---
 
 _Romans 13:8  

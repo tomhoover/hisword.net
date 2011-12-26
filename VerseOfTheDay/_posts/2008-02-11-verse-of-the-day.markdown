@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 11th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/11/]
 ---
 
 _Luke 9:23  

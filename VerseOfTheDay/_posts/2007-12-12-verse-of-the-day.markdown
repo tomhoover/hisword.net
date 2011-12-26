@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 12th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/12/]
 ---
 
 _Romans 5:8  

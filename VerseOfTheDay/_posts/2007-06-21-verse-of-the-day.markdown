@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 21, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/21/]
 ---
 
 _Romans 5:5  

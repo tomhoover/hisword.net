@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 25th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/25/]
 ---
 
 _Psalm 9:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 19th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/19/]
 ---
 
 _II Corinthians 5:17  

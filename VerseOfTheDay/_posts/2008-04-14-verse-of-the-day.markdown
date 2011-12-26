@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 14th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/14/]
 ---
 
 _Philippians 2:13  

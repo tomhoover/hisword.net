@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 14th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/14/]
 ---
 
 _Hebrews 4:12  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 29th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/29/]
 ---
 
 _Psalm 51:12  

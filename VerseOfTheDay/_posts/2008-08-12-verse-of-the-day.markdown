@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 12th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/12/]
 ---
 
 _Matthew 17:20b  

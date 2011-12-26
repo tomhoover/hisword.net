@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 16th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/16/]
 ---
 
 _Psalm 62:8  

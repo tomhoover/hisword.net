@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 24th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/24/]
 ---
 
 _I Peter 3:22  

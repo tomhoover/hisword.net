@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 29th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/29/]
 ---
 
 _Jeremiah 1:8  

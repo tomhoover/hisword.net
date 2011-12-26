@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 15th - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/15/]
 ---
 
 _I Thessalonians 5:18  

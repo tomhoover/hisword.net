@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 16th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/16/]
 ---
 
 _Psalm 25:5  

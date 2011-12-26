@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 28th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/28/]
 ---
 
 _Psalm 37:3  

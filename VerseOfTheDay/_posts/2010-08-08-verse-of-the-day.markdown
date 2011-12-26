@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 8th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/08/]
 ---
 
 _Zechariah 9:12  

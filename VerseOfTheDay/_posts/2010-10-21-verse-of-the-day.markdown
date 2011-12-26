@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 21st - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/21/]
 ---
 
 _II Corinthians 5:7  

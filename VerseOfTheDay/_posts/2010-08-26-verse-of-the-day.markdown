@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 26th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/26/]
 ---
 
 _Psalm 16:9  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 25th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/25/]
 ---
 
 _I Thessalonians 5:11  

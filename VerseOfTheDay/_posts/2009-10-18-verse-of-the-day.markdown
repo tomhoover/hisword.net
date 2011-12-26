@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 18th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/18/]
 ---
 
 _I Timothy 6:11  

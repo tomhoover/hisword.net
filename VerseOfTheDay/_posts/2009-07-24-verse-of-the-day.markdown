@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 24th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/24/]
 ---
 
 _Romans 8:17  

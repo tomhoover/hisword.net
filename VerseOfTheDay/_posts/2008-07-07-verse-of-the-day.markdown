@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 7th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/07/]
 ---
 
 _Titus 3:5  

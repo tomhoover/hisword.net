@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 8th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/08/]
 ---
 
 _Psalm 37:7  

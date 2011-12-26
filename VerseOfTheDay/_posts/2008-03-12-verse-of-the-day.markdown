@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 12th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/12/]
 ---
 
 _Isaiah 55:8  

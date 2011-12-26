@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 14th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/14/]
 ---
 
 _Matthew 22:37  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 9th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/09/]
 ---
 
 _Hebrews 13:15  

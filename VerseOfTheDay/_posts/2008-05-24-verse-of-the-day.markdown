@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 24th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/24/]
 ---
 
 _Exodus 14:14  

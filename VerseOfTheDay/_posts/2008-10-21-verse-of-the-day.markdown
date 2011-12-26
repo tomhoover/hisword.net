@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 21st - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/21/]
 ---
 
 _Psalm 145:18  

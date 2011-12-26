@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 24th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/24/]
 ---
 
 _Job 13:15a  

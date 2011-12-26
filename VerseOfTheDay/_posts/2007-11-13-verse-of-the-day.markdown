@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 13th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/13/]
 ---
 
 _Psalm 147:3  

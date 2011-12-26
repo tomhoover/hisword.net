@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 15th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/15/]
 ---
 
 _Luke 6:37  

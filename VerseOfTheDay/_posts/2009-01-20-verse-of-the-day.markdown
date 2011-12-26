@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 20th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/20/]
 ---
 
 _Psalm 17:15  

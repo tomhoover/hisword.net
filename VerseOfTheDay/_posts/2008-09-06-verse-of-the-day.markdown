@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 6th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/06/]
 ---
 
 _Romans 4:7  

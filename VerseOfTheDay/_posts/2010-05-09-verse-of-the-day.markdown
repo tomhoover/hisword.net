@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 9th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/09/]
 ---
 
 _Proverbs 31:26  

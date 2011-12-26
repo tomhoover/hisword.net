@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 10th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/10/]
 ---
 
 _John 16:33  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 12th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/12/]
 ---
 
 _Psalm 34:4  

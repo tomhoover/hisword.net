@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 28th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/28/]
 ---
 
 _II Thessalonians 3:3  

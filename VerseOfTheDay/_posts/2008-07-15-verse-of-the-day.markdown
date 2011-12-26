@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 15th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/15/]
 ---
 
 _Isaiah 17:10  

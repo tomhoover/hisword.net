@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 8th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/08/]
 ---
 
 _Psalm 18:2  

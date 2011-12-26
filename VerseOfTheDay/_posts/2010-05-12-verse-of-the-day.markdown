@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 12th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/12/]
 ---
 
 _Proverbs 23:17  

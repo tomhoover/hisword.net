@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 21st - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/21/]
 ---
 
 _Proverbs 8:17  

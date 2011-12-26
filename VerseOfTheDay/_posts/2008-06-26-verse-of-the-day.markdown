@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 26th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/26/]
 ---
 
 _Galatians 5:22-23  

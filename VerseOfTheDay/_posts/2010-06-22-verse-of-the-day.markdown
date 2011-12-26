@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 22nd - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/22/]
 ---
 
 _John 16:13  

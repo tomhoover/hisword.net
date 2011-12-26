@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 8th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/08/]
 ---
 
 _Psalm 119:165  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 3rd - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/03/]
 ---
 
 _Romans 15:5  

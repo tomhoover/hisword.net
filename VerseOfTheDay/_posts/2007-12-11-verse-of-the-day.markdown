@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 11th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/11/]
 ---
 
 _Ephesians 4:7  

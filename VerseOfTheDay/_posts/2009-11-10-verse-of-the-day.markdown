@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 10th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/10/]
 ---
 
 _Ephesians 2:7  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 18th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/18/]
 ---
 
 _Matthew 26:41  

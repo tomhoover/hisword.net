@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 7th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/07/]
 ---
 
 _Proverbs 14:30  

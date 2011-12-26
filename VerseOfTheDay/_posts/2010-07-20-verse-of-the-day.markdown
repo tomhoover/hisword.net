@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 20th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/20/]
 ---
 
 _Isaiah 41:10  

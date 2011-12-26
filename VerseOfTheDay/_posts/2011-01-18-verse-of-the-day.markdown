@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 18th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/18/]
 ---
 
 _Galatians 5:14  

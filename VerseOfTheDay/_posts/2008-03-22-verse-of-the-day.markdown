@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 22nd - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/22/]
 ---
 
 _I Peter 1:3  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 20th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/20/]
 ---
 
 _I John 3:17  

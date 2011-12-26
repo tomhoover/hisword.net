@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 4th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/04/]
 ---
 
 _Lamentations 3:22-23  

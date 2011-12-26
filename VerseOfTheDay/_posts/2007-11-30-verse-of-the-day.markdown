@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 30th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/30/]
 ---
 
 _John 12:40  

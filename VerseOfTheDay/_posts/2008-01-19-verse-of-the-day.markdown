@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 19th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/19/]
 ---
 
 _Psalm 21:13  

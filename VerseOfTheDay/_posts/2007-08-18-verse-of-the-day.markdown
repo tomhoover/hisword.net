@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 18, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/18/]
 ---
 
 _Psalm 33:13-14  

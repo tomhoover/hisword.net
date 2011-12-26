@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 16th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/16/]
 ---
 
 _I John 4:10  

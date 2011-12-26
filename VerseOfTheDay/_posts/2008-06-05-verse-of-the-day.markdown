@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 5th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/05/]
 ---
 
 _Jeremiah 29:11  

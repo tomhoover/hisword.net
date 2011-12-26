@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 24th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/24/]
 ---
 
 _Psalm 140:7  

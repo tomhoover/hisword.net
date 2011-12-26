@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 16th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/16/]
 ---
 
 _Psalm 31:23  

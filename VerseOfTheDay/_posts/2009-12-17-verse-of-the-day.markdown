@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 17th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/17/]
 ---
 
 _I Peter 1:8  

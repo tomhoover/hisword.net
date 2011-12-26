@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 8th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/08/]
 ---
 
 _Luke 4:18-19  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 23rd - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/23/]
 ---
 
 _Psalm 19:14  

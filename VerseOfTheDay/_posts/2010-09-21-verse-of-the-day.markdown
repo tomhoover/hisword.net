@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 21st - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/21/]
 ---
 
 _II Corinthians 4:8-10  

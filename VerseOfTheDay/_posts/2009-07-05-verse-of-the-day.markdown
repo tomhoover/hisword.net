@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 5th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/05/]
 ---
 
 _Revelation 2:10b  

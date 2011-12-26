@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 13th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/13/]
 ---
 
 _Psalm 31:7  

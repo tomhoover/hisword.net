@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 11th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/11/]
 ---
 
 _II Corinthians 10:4-5  

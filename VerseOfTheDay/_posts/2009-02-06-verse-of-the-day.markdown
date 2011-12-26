@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 6th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/06/]
 ---
 
 _I John 4:7  

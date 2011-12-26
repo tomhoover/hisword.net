@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 9th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/09/]
 ---
 
 _I Peter 3:15  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 8th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/08/]
 ---
 
 _II Thessalonians 2:16-17  

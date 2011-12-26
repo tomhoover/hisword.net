@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 7th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/07/]
 ---
 
 _Romans 4:20  

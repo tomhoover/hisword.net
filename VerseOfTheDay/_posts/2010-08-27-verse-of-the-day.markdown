@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 27th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/27/]
 ---
 
 _Titus 2:13-14  

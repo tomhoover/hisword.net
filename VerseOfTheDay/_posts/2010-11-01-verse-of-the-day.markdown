@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 1st - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/01/]
 ---
 
 _II Peter 1:5  

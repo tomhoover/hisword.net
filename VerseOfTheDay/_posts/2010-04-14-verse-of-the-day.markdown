@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 14th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/14/]
 ---
 
 _Psalm 103:8  

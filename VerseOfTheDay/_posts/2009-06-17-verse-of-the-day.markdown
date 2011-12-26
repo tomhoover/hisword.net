@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 17th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/17/]
 ---
 
 _Lamentations 3:22-23  

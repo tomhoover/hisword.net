@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 13th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/13/]
 ---
 
 _Philippians 4:13  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 20th - Partnership with God in the Church
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/09/20/]
 ---
 
 _Mark 10:43-45  

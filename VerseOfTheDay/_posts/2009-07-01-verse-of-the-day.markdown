@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 1st - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/01/]
 ---
 
 _Galatians 2:20  

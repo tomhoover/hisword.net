@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 10th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/10/]
 ---
 
 _I Corinthians 4:2  

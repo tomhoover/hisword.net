@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 15th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/15/]
 ---
 
 _Isaiah 50:4  

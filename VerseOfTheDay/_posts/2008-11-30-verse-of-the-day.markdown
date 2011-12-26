@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 30th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/30/]
 ---
 
 _Matthew 6:6  

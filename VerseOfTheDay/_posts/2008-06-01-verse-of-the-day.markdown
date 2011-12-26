@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 1st - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/01/]
 ---
 
 _Numbers 6:24-26  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 23rd - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/23/]
 ---
 
 _I John 4:7  

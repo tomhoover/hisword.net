@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 14th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/14/]
 ---
 
 _Proverbs 11:30  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 30th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/30/]
 ---
 
 _I John 4:19  

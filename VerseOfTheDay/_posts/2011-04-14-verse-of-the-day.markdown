@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 14th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/14/]
 ---
 
 _Revelation 7:12  

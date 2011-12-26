@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 18th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/18/]
 ---
 
 _Psalm 10:17  

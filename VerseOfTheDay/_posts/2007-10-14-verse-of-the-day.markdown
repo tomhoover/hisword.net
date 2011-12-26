@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 14th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/14/]
 ---
 
 _I Timothy 6:6  

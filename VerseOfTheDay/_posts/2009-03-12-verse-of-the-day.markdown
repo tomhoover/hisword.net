@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 12th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/12/]
 ---
 
 _Psalm 105:3  

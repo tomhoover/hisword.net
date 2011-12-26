@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 1st - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/01/]
 ---
 
 _I Corinthians 13:7a  

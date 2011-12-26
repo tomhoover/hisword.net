@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 1st - FaithWalk...taking your Faith on a journey.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/06/01/]
 ---
 
 _Proverbs 3:5-6  

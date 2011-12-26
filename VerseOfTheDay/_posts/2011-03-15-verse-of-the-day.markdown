@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 15th - FaithLine...building upon the line of Faith set before
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/03/15/]
 ---
 
 _Hebrews 11:22  

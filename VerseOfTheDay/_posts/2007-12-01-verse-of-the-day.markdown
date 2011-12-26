@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 1st - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/01/]
 ---
 
 _Genesis 22:14  

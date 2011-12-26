@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 30th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/30/]
 ---
 
 _Psalm 105:4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 24th - God's Place of Provision
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/12/24/]
 ---
 
 _Matthew 1:23  

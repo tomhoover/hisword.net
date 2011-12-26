@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 2nd - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/02/]
 ---
 
 _Psalm 119:165  

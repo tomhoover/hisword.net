@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 4th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/04/]
 ---
 
 _Psalm 119:11  

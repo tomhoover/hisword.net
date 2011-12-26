@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 29th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/29/]
 ---
 
 _Nehemiah 4:20  

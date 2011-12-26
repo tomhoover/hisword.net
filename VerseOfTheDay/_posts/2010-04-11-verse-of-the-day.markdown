@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 11th - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/11/]
 ---
 
 _Matthew 5:23-24  

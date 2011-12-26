@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 9th - Partnership with God in Attitude and Mind-Set
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/05/09/]
 ---
 
 _Philippians 2:5  

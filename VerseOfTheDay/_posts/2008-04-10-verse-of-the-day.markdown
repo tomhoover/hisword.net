@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 10th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/10/]
 ---
 
 _Jeremiah 33:3  

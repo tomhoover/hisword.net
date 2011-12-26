@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 4th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/04/]
 ---
 
 _Micah 6:8  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 27th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/27/]
 ---
 
 _Philippians 4:6  

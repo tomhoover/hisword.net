@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 3rd - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/03/]
 ---
 
 _Hebrews 11:6  

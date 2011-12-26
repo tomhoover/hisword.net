@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 21, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/21/]
 ---
 
 _Psalm 20:1-2  

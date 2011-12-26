@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 3rd - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/03/]
 ---
 
 _II Corinthians 6:16  

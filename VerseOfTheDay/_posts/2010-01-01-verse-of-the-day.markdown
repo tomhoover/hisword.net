@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 1st - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/01/]
 ---
 
 _I Corinthians 13:4d  

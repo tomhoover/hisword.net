@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 4th - God&rsquo;s Place of Salvation
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/07/04/]
 ---
 
 _John 8:32  

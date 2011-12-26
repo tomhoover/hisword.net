@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 30th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/30/]
 ---
 
 _Galatians 3:26  

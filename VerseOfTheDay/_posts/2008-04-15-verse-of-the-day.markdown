@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 15th- God&rsquo;s Place of Care
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/04/15/]
 ---
 
 _Isaiah 41:13  

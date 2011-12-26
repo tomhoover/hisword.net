@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 30th - FaithLine...building upon the line of Faith set before
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/03/30/]
 ---
 
 _I Corinthians 10:11  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 1st - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/01/]
 ---
 
 _I Peter 3:15  

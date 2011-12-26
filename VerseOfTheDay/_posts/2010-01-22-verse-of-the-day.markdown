@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 22nd - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/22/]
 ---
 
 _Ecclesiastes 6:7  

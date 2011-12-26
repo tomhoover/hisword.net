@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 9th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/09/]
 ---
 
 _Hebrews 10:36  

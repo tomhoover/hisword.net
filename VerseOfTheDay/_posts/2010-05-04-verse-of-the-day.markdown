@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 4th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/04/]
 ---
 
 _I John 1:9  

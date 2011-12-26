@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 2nd - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/02/]
 ---
 
 _Psalm 108:1  

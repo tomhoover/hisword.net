@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 6th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/06/]
 ---
 
 _Hebrews 6:10  

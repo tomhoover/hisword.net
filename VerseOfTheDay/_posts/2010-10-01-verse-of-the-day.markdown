@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 1st - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/01/]
 ---
 
 _Hebrews 11:6  

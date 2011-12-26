@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 20th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/20/]
 ---
 
 _Psalm 62:7  

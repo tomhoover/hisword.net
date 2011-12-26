@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 1, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/01/]
 ---
 
 _I Peter 2:6-7  

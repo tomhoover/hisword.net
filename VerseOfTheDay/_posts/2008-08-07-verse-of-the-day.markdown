@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 7th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/07/]
 ---
 
 _Psalm 31:23  

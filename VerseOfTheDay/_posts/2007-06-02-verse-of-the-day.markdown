@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 2, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/02/]
 ---
 
 _Psalm 147:4  

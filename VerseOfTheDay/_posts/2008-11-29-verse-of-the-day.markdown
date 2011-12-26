@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 29th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/29/]
 ---
 
 _Nehemiah 1:6a  

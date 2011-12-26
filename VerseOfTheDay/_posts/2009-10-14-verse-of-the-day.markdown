@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 14th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/14/]
 ---
 
 _James 1:4  

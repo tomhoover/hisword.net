@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 16th - God&rsquo;s Place of Promise
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/03/16/]
 ---
 
 _Matthew 6:31-32  

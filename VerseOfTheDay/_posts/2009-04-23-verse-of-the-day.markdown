@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 23rd - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/23/]
 ---
 
 _Psalm 18:28  

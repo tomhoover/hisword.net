@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 12th - FaithLift...challenging your Faith through the power of
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/04/12/]
 ---
 
 _II Timothy 1:7  

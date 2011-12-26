@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 9th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/09/]
 ---
 
 _Romans 5:1  

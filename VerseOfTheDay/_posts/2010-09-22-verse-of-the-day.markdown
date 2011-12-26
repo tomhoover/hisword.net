@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 22nd - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/22/]
 ---
 
 _Philippians 4:19  

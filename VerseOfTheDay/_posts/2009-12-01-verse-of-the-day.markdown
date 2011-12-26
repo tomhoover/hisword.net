@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 1st - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/01/]
 ---
 
 _I Corinthians 13:4c  

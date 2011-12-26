@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 22nd - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/22/]
 ---
 
 _Psalm 37:7  

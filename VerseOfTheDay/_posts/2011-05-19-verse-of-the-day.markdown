@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 19th - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/19/]
 ---
 
 _Psalm 66:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 24th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/24/]
 ---
 
 _John 15:7  

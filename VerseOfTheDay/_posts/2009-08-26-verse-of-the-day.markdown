@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 26th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/26/]
 ---
 
 _Deuteronomy 15:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 2nd - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/02/]
 ---
 
 _Isaiah 26:4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 10th - Partnership with God in Loving Relationships
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/02/10/]
 ---
 
 _Galatians 6:2  

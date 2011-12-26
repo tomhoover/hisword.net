@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 4th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/04/]
 ---
 
 _I Samuel 15:22  

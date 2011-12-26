@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 15th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/15/]
 ---
 
 _Luke 9:23  

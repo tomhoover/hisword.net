@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 13th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/13/]
 ---
 
 _Psalm 42:4  

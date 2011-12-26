@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 4th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/04/]
 ---
 
 _Proverbs 30:5  

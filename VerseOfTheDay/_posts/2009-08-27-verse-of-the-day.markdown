@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 27th - Partnership with God for a Changed Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/08/27/]
 ---
 
 _II Timothy 1:7  

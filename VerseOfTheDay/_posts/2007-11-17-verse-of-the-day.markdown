@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 17th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/17/]
 ---
 
 _II Corinthians 12:8-9  

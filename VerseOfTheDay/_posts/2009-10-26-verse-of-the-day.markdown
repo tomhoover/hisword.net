@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 26th - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/26/]
 ---
 
 _II Peter 3:9  

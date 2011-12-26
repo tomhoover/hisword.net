@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 25, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/25/]
 ---
 
 _Acts 11:23  

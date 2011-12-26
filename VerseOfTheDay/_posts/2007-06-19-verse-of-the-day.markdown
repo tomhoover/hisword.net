@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 19, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/19/]
 ---
 
 _Psalm 139:17  

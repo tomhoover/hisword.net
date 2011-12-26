@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 2nd - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/02/]
 ---
 
 _Psalm 88:1-2  

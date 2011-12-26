@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 7th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/07/]
 ---
 
 _Luke 9:62  

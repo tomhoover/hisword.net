@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 23rd - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/23/]
 ---
 
 _Acts 24:16  

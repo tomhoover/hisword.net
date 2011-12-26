@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 23rd - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/23/]
 ---
 
 _Psalm 100:2  

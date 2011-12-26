@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 17th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/17/]
 ---
 
 _Hebrews 6:12  

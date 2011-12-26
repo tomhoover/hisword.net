@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 5th - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/05/]
 ---
 
 _Galatians 6:10  

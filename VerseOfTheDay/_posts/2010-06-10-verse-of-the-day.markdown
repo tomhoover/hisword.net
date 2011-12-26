@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 10th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/10/]
 ---
 
 _Galatians 4:16  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 23rd - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/23/]
 ---
 
 _I Thessalonians 1:3  

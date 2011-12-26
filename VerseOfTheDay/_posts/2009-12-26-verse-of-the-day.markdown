@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 26th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/26/]
 ---
 
 _Hebrews 13:5  

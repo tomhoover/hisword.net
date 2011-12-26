@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 27th - God&rsquo;s Place of Peace
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/06/27/]
 ---
 
 _Isaiah 59:8  

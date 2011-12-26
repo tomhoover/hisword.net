@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 29, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/29/]
 ---
 
 _Psalm 90:1-2  

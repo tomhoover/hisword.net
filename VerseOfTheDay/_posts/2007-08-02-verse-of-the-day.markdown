@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 2, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/02/]
 ---
 
 _Isaiah 40:11  

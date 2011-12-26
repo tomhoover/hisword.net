@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 3rd - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/03/]
 ---
 
 _Proverbs 6:34  

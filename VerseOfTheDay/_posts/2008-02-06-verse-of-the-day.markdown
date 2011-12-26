@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 6th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/06/]
 ---
 
 _Hebrews 10:22  

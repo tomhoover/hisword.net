@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 21st - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/21/]
 ---
 
 _Exodus 33:14  

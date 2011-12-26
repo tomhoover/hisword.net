@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 31st - Extreme Love...is giving.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/03/31/]
 ---
 
 _Romans 5:8  

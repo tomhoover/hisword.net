@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 17th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/17/]
 ---
 
 _John 14:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 28th - Partnership with God in Adventures of Faith
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/06/28/]
 ---
 
 _Isaiah 58:11  

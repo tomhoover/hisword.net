@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 14th - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/14/]
 ---
 
 _Isaiah 26:4  

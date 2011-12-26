@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 11th - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/11/]
 ---
 
 _Psalm 40:4a  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 28, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/28/]
 ---
 
 _John 12:46  

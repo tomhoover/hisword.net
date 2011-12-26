@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 16th - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/16/]
 ---
 
 _I Corinthians 3:13  

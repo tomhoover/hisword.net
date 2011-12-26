@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 28th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/28/]
 ---
 
 _Proverbs 27:6  

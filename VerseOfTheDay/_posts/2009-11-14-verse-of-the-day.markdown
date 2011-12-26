@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 14th - Extreme Love...Is Kind
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/11/14/]
 ---
 
 _Psalm 17:7  

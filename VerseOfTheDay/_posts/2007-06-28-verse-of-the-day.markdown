@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 28, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/06/28/]
 ---
 
 _Hebrews 2:18  

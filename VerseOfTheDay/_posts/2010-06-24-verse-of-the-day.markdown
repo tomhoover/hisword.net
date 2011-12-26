@@ -1,6 +1,8 @@
 ---
 layout: post
 title: June 24th - Extreme Love...rejoices in truth.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/06/24/]
 ---
 
 _Romans 2:2  

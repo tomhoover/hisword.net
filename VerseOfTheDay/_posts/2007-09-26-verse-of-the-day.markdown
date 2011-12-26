@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 26, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/26/]
 ---
 
 _Isaiah 61:1  

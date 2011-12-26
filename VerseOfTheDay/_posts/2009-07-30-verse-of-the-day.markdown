@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 30th - Partnership with God in Sacrifice
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/07/30/]
 ---
 
 _Psalm 39:1  

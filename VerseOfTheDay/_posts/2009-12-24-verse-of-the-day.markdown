@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 24th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/24/]
 ---
 
 _Isaiah 9:6-7  

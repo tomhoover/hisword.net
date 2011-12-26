@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 18th - Partnership with God in Prayer
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/11/18/]
 ---
 
 _Romans 8:26  

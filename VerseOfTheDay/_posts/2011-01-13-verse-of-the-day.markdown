@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 13th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/13/]
 ---
 
 _John 17:17  

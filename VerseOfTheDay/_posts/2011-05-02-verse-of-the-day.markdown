@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 2nd - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/02/]
 ---
 
 _II Corinthians 4:8-10  

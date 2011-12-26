@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 19th - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/19/]
 ---
 
 _Psalm 34:19  

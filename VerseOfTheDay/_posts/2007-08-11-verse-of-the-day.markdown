@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 11, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/11/]
 ---
 
 _Luke 15:6  

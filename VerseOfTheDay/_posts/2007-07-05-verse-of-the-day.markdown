@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 5, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/07/05/]
 ---
 
 _Matthew 5:14-16  

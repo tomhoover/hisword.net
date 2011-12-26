@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 31st - The Basics of Partnership
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/10/31/]
 ---
 
 _Psalm 37:5  

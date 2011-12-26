@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 25, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/25/]
 ---
 
 _Galatians 5:13  

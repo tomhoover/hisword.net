@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 16th - Extreme Love...Is not proud or self-focused
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/01/16/]
 ---
 
 _Romans 15:1  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 28th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/28/]
 ---
 
 _Nehemiah 9:31  

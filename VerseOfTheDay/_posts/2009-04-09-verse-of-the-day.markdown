@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 9th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/09/]
 ---
 
 _Isaiah 25:8  

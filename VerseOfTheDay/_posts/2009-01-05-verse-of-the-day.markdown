@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 5th - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/05/]
 ---
 
 _Deuteronomy 31:8  

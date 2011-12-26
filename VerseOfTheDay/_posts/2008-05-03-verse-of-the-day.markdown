@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 3rd - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/03/]
 ---
 
 _I Corinthians 15:57  

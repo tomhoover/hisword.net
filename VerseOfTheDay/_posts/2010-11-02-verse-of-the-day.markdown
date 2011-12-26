@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 2nd - FaithApps...applying Faith to every area of your
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/11/02/]
 ---
 
 _Luke 12:27-28  

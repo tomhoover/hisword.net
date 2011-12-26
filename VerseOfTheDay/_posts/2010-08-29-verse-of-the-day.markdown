@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 29th - Extreme Love...hopes and believes the best.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/08/29/]
 ---
 
 _Psalm 119:81  

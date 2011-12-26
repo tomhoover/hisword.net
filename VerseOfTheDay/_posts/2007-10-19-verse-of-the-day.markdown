@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 19th - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/19/]
 ---
 
 _Romans 12:2  

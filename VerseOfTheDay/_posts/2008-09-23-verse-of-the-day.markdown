@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 23rd - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/23/]
 ---
 
 _Luke 7:47  

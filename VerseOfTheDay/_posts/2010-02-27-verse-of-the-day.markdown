@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 27th - Extreme Love...is gracious, not rude.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/02/27/]
 ---
 
 _Psalm 139:4  

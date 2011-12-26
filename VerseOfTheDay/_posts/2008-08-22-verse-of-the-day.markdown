@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 22nd - God&rsquo;s Place of Faithfulness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/08/22/]
 ---
 
 _Isaiah 55:8  

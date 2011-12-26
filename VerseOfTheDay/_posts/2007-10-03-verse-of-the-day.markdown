@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 3rd - God's Place of Priority
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/10/03/]
 ---
 
 _Matthew 6:33  

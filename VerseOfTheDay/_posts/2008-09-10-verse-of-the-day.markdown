@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 10th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/10/]
 ---
 
 _Psalm 107:2  

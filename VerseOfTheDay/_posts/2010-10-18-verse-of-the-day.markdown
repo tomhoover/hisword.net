@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 18th - FaithLaunch...launching out into your world with
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/10/18/]
 ---
 
 _Matthew 21:22  

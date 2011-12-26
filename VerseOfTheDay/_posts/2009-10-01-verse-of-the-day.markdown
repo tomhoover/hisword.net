@@ -1,6 +1,8 @@
 ---
 layout: post
 title: October 1st - Extreme Love...Is Patient
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/10/01/]
 ---
 
 _I Corinthians 13:4a  

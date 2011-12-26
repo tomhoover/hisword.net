@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 11th - God's Place of Forgiveness
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/09/11/]
 ---
 
 _Mark 11:25  

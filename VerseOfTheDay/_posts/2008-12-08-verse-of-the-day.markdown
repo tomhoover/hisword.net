@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 8th - Partnership with God in Personal Finances
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/12/08/]
 ---
 
 _Matthew 25:25  

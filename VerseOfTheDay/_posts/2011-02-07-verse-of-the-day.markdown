@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 7th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/07/]
 ---
 
 _Ephesians 6:18  

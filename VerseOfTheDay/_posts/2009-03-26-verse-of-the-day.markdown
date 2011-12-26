@@ -1,6 +1,8 @@
 ---
 layout: post
 title: March 26th - Partnership with God to Touch Lives
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/03/26/]
 ---
 
 _Jeremiah 31:3  

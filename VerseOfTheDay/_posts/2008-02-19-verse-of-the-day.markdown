@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 19th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/19/]
 ---
 
 _Psalm 16:11  

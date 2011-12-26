@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 7th - Partnership with God for a Victorious Life
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/04/07/]
 ---
 
 _Psalm 16:11  

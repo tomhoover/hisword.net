@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 22nd - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/22/]
 ---
 
 _Isaiah 1:16  

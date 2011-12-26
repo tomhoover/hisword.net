@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 9th - God's Place of Presence
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/02/09/]
 ---
 
 _Deuteronomy 6:5  

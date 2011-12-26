@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 24th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/24/]
 ---
 
 _Matthew 4:4  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: February 12th - FaithForce...engaging your faith in Spiritual
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/02/12/]
 ---
 
 _II Timothy 3:14  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 19th - Extreme Love...endures through trials.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/09/19/]
 ---
 
 _II Corinthians 4:18  

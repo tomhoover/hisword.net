@@ -1,6 +1,8 @@
 ---
 layout: post
 title: November 6th - God's Place of Healing
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/11/06/]
 ---
 
 _Proverbs 3:7-8  

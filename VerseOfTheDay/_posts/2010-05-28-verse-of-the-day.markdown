@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 28th - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/28/]
 ---
 
 _I Corinthians 15:33  

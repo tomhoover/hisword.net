@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 3rd - Extreme Love...forgives and forgets offenses.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/05/03/]
 ---
 
 _Luke 6 :27-28  

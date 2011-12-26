@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April 22nd - Extreme Love...works at overcoming anger.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/04/22/]
 ---
 
 _Psalm 145:8  

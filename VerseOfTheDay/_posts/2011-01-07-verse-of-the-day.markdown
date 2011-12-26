@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 7th - FaithBook...fueling your Faith with the Bible.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/01/07/]
 ---
 
 _Jeremiah 23:29  

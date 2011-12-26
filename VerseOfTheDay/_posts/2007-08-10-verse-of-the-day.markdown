@@ -1,6 +1,8 @@
 ---
 layout: post
 title: August 10, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/08/10/]
 ---
 
 _Matthew 9:36  

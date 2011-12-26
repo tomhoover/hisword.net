@@ -1,6 +1,8 @@
 ---
 layout: post
 title: September 12, 2007 - Jesus Every Day
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2007/09/12/]
 ---
 
 _II Corinthians 5:14-15  

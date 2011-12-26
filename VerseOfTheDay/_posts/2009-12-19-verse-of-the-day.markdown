@@ -1,6 +1,8 @@
 ---
 layout: post
 title: December 19th - Extreme Love...Is Joyous, not Jealous
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/12/19/]
 ---
 
 _II Peter 2:3a  

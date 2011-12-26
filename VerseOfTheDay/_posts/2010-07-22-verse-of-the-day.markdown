@@ -1,6 +1,8 @@
 ---
 layout: post
 title: July 22nd - Extreme Love...endures and protects.
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2010/07/22/]
 ---
 
 _I Corinthians 15:58  

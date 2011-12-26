@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 18th - God's Place of Power
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/01/18/]
 ---
 
 _II Corinthians 13:4  

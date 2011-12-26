@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 6th - God&rsquo;s Place of Victory
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2008/05/06/]
 ---
 
 _Psalm 51:10  

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: January 22nd - Partnership with God in Daily Disciplines
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2009/01/22/]
 ---
 
 _I Thessalonians 4:3  

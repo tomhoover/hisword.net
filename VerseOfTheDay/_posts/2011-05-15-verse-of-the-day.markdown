@@ -1,6 +1,8 @@
 ---
 layout: post
 title: May 15th - FaithSearch...examining your Faith in the midst of life's
+categories: [Verse of the Day]
+alias: [/VerseOfTheDay/2011/05/15/]
 ---
 
 _Isaiah 40:31  
