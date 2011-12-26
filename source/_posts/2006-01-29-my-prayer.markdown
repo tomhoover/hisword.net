@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Prayer
+categories: [tom]
 ---
 
 Lord, I shall not fret about yesterday, for yesterday is no more.  I shall not

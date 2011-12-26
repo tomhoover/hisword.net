@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Website redesign
+categories: [tom]
 ---
 
 It's obvious that a site facelift was _long_ overdue for HisWord.net.

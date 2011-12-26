@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daily Bible Verse - Jesus Every Day
+categories: [tom]
 ---
 
 I'm starting to include a verse of the day, provided by <a

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Romans 1:16
+categories: [tom]
 ---
 
 Romans 1:16 For I am not ashamed of the gospel of Christ: for it is the power
