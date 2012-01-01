@@ -16,8 +16,8 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_rss: http://feeds.feedburner.com/hisword-net
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=hisword-net&amp;loc=en_US
 # RSS feeds can list your email address if you like
 email:
 
@@ -35,11 +35,10 @@ code_dir: downloads/code
 category_dir: categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
-server_port: 4001
 
 paginate: 10          # Posts per page on the blog index
 pagination_dir:       # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
+recent_posts: 6       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to tilecase
