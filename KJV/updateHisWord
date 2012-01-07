@@ -1,0 +1,31 @@
+#/bin/bash
+
+LIB="${HOME}/src/GIT/hisword.net"
+cd ${LIB}
+
+/usr/local/bin/s3cmd --acl-public --reduced-redundancy --no-preserve --delete-removed --config /Users/tom/.s3cfg sync public/* s3://www.hisword.net/
+
+exit
+
+# This script is launched daily, via launchctl, by ~/Library/LaunchAgents/com.tom.updateHisWord.plist:
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.tom.updateHisWord</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/tom/src/GIT/hisword.net/KJV/updateHisWord</string>
+	</array>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>4</integer>
+		<key>Minute</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
+
