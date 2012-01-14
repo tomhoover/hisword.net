@@ -3,7 +3,7 @@
 LIB="${HOME}/src/GIT/hisword.net"
 cd ${LIB}
 
-/usr/local/bin/s3cmd --acl-public --reduced-redundancy --no-preserve --delete-removed --config /Users/tom/.s3cfg sync public/* s3://www.hisword.net/
+/usr/local/bin/s3cmd --acl-public --reduced-redundancy --no-preserve --delete-removed --exclude='page/??*/*' --config /Users/tom/.s3cfg sync public/* s3://www.hisword.net/
 
 exit
 
