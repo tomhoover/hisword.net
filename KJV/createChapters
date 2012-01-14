@@ -1,0 +1,224 @@
+#!/bin/bash
+# create markdown files containing individual Bible chapters
+
+cat BookChapter | while read REF
+do
+  echo "$REF"
+  BOOK=`echo "$REF" | sed 's/\..*$//'`
+  CHAP=`echo "$REF" | sed 's/^.*\.//'`
+  mkdir -p $BOOK
+  FILEPATH="$BOOK/$CHAP.markdown"
+
+  case $BOOK in
+  Ge )
+    FULLBOOK="Genesis"
+  ;;
+  Ex )
+    FULLBOOK="Exodus"
+  ;;
+  Le )
+    FULLBOOK="Leviticus"
+  ;;
+  Nu )
+    FULLBOOK="Numbers"
+  ;;
+  De )
+    FULLBOOK="Deuteronomy"
+  ;;
+  Jos )
+    FULLBOOK="Joshua"
+  ;;
+  Jg )
+    FULLBOOK="Judges"
+  ;;
+  Ru )
+    FULLBOOK="Ruth"
+  ;;
+  1Sa )
+    FULLBOOK="1 Samuel"
+  ;;
+  2Sa )
+    FULLBOOK="2 Samuel"
+  ;;
+  1Ki )
+    FULLBOOK="1 Kings"
+  ;;
+  2Ki )
+    FULLBOOK="2 Kings"
+  ;;
+  1Ch )
+    FULLBOOK="1 Chronicles"
+  ;;
+  2Ch )
+    FULLBOOK="2 Chronicles"
+  ;;
+  Ezr )
+    FULLBOOK="Ezra"
+  ;;
+  Ne )
+    FULLBOOK="Nehemiah"
+  ;;
+  Es )
+    FULLBOOK="Esther"
+  ;;
+  Job )
+    FULLBOOK="Job"
+  ;;
+  Ps )
+    FULLBOOK="Psalm"
+  ;;
+  Pr )
+    FULLBOOK="Proverbs"
+  ;;
+  Ec )
+    FULLBOOK="Ecclesiastes"
+  ;;
+  Song )
+    FULLBOOK="Song of Solomon"
+  ;;
+  Isa )
+    FULLBOOK="Isaiah"
+  ;;
+  Jer )
+    FULLBOOK="Jeremiah"
+  ;;
+  La )
+    FULLBOOK="Lamentations"
+  ;;
+  Eze )
+    FULLBOOK="Ezekiel"
+  ;;
+  Da )
+    FULLBOOK="Daniel"
+  ;;
+  Ho )
+    FULLBOOK="Hosea"
+  ;;
+  Joe )
+    FULLBOOK="Joel"
+  ;;
+  Am )
+    FULLBOOK="Amos"
+  ;;
+  Ob )
+    FULLBOOK="Obadiah"
+    CHAP=""
+  ;;
+  Jon )
+    FULLBOOK="Jonah"
+  ;;
+  Mic )
+    FULLBOOK="Micah"
+  ;;
+  Na )
+    FULLBOOK="Nahum"
+  ;;
+  Hab )
+    FULLBOOK="Habakkuk"
+  ;;
+  Zep )
+    FULLBOOK="Zephaniah"
+  ;;
+  Hag )
+    FULLBOOK="Haggai"
+  ;;
+  Zec )
+    FULLBOOK="Zechariah"
+  ;;
+  Mal )
+    FULLBOOK="Malachi"
+  ;;
+  Mt )
+    FULLBOOK="Matthew"
+  ;;
+  Mr )
+    FULLBOOK="Mark"
+  ;;
+  Lu )
+    FULLBOOK="Luke"
+  ;;
+  Joh )
+    FULLBOOK="John"
+  ;;
+  Ac )
+    FULLBOOK="Acts"
+  ;;
+  Ro )
+    FULLBOOK="Romans"
+  ;;
+  1Co )
+    FULLBOOK="1 Corinthians"
+  ;;
+  2Co )
+    FULLBOOK="2 Corinthians"
+  ;;
+  Ga )
+    FULLBOOK="Galatians"
+  ;;
+  Eph )
+    FULLBOOK="Ephesians"
+  ;;
+  Php )
+    FULLBOOK="Philippians"
+  ;;
+  Col )
+    FULLBOOK="Colossians"
+  ;;
+  1Th )
+    FULLBOOK="1 Thessalonians"
+  ;;
+  2Th )
+    FULLBOOK="2 Thessalonians"
+  ;;
+  1Ti )
+    FULLBOOK="1 Timothy"
+  ;;
+  2Ti )
+    FULLBOOK="2 Timothy"
+  ;;
+  Tit )
+    FULLBOOK="Titus"
+  ;;
+  Phm )
+    FULLBOOK="Philemon"
+    CHAP=""
+  ;;
+  Heb )
+    FULLBOOK="Hebrews"
+  ;;
+  Jas )
+    FULLBOOK="James"
+  ;;
+  1Pe )
+    FULLBOOK="1 Peter"
+  ;;
+  2Pe )
+    FULLBOOK="2 Peter"
+  ;;
+  1Jo )
+    FULLBOOK="1 John"
+  ;;
+  2Jo )
+    FULLBOOK="2 John"
+    CHAP=""
+  ;;
+  3Jo )
+    FULLBOOK="3 John"
+    CHAP=""
+  ;;
+  Jude )
+    FULLBOOK="Jude"
+    CHAP=""
+  ;;
+  Re )
+    FULLBOOK="Revelation"
+  ;;
+  esac
+
+  grep "^$REF:" TEXT-PCE.markdown > $FILEPATH.tmp
+  echo "### $FULLBOOK $CHAP" > $FILEPATH
+  echo "" >> $FILEPATH
+  sed -e 's/^[A-Za-z0-9]* [0-9]*://' -e 's/$/  /' < $FILEPATH.tmp >> $FILEPATH
+  rm $FILEPATH.tmp
+
+done
