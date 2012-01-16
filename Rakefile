@@ -116,6 +116,9 @@ task :new_post, :title do |t, args|
     post.puts "published: false"
     post.puts "---"
   end
+  if #{editor}
+    system "#{editor} #{filename}"
+  end
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
