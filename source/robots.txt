@@ -1,0 +1,5 @@
+Sitemap: http://www.hisword.net/sitemap.xml
+
+User-agent: *
+Disallow: /error/404/index.html
+Disallow: /googleec82dc1ef9e52758.html
