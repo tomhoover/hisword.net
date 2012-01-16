@@ -1,5 +1,0 @@
-Sitemap: http://hisword.net/sitemap.xml.gz
-
-User-agent: *
-Disallow: /error404/
-Disallow: /googleec82dc1ef9e52758.html
