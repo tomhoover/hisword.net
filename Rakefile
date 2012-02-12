@@ -243,7 +243,7 @@ end
 desc "Deploy website via s3cmd"
 task :s3 do
   puts "## Deploying website via s3cmd"
-  ok_failed system("s3cmd --acl-public --reduced-redundancy --no-preserve --delete-removed --exclude='page/??*/*' sync public/* s3://#{s3_bucket}/")
+  ok_failed system("s3cmd --acl-public --reduced-redundancy --no-preserve --delete-removed --exclude='page/??*/*' --config /Users/tom/.s3cfg sync public/* s3://#{s3_bucket}/")
 end
 
 desc "Deploy website via rsync"
