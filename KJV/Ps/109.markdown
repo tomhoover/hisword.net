@@ -1,6 +1,8 @@
 ### Psalm 109
 
-1 <<To the chief Musician, A Psalm of David.>> Hold not thy peace, O God of my praise;  
+> To the chief Musician, A Psalm of David.
+
+1 Hold not thy peace, O God of my praise;  
 2 For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.  
 3 They compassed me about also with words of hatred; and fought against me without a cause.  
 4 For my love they are my adversaries: but I *give myself unto* prayer.  

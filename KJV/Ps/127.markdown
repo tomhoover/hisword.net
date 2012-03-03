@@ -1,6 +1,8 @@
 ### Psalm 127
 
-1 <<A Song of degrees for Solomon.>> Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh *but* in vain.  
+> A Song of degrees for Solomon.
+
+1 Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh *but* in vain.  
 2 *It is* vain for you to rise up early, to sit up late, to eat the bread of sorrows: *for* so he giveth his beloved sleep.  
 3 Lo, children *are* an heritage of the LORD: *and* the fruit of the womb *is his* reward.  
 4 As arrows *are* in the hand of a mighty man; so *are* children of the youth.  

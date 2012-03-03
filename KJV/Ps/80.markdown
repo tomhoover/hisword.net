@@ -1,6 +1,8 @@
 ### Psalm 80
 
-1 <<To the chief Musician upon ShoshannimEduth, A Psalm of Asaph.>> Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest *between* the cherubims, shine forth.  
+> To the chief Musician upon ShoshannimEduth, A Psalm of Asaph.
+
+1 Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest *between* the cherubims, shine forth.  
 2 Before Ephraim and Benjamin and Manasseh stir up thy strength, and come *and* save us.  
 3 Turn us again, O God, and cause thy face to shine; and we shall be saved.  
 4 O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?  

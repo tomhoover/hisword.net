@@ -1,6 +1,8 @@
 ### Psalm 6
 
-1 <<To the chief Musician on Neginoth upon Sheminith, A Psalm of David.>> O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.  
+> To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
+
+1 O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.  
 2 Have mercy upon me, O LORD; for I *am* weak: O LORD, heal me; for my bones are vexed.  
 3 My soul is also sore vexed: but thou, O LORD, how long?  
 4 Return, O LORD, deliver my soul: oh save me for thy mercies' sake.  

@@ -1,6 +1,8 @@
 ### Psalm 139
 
-1 <<To the chief Musician, A Psalm of David.>> O LORD, thou hast searched me, and known *me*.  
+> To the chief Musician, A Psalm of David.
+
+1 O LORD, thou hast searched me, and known *me*.  
 2 Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.  
 3 Thou compassest my path and my lying down, and art acquainted *with* all my ways.  
 4 For *there is* not a word in my tongue, *but*, lo, O LORD, thou knowest it altogether.  

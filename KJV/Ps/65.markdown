@@ -1,6 +1,8 @@
 ### Psalm 65
 
-1 <<To the chief Musician, A Psalm *and* Song of David.>> Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.  
+> To the chief Musician, A Psalm *and* Song of David.
+
+1 Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.  
 2 O thou that hearest prayer, unto thee shall all flesh come.  
 3 Iniquities prevail against me: *as for* our transgressions, thou shalt purge them away.  
 4 Blessed *is the man whom* thou choosest, and causest to approach *unto thee, that* he may dwell in thy courts: we shall be satisfied with the goodness of thy house, *even* of thy holy temple.  

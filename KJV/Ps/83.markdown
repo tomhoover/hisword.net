@@ -1,6 +1,8 @@
 ### Psalm 83
 
-1 <<A Song *or* Psalm of Asaph.>> Keep not thou silence, O God: hold not thy peace, and be not still, O God.  
+> A Song *or* Psalm of Asaph.
+
+1 Keep not thou silence, O God: hold not thy peace, and be not still, O God.  
 2 For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.  
 3 They have taken crafty counsel against thy people, and consulted against thy hidden ones.  
 4 They have said, Come, and let us cut them off from *being* a nation; that the name of Israel may be no more in remembrance.  

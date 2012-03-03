@@ -1,6 +1,8 @@
 ### Psalm 122
 
-1 <<A Song of degrees of David.>> I was glad when they said unto me, Let us go into the house of the LORD.  
+> A Song of degrees of David.
+
+1 I was glad when they said unto me, Let us go into the house of the LORD.  
 2 Our feet shall stand within thy gates, O Jerusalem.  
 3 Jerusalem is builded as a city that is compact together:  
 4 Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.  

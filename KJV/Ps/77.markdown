@@ -1,6 +1,8 @@
 ### Psalm 77
 
-1 <<To the chief Musician, to Jeduthun, A Psalm of Asaph.>> I cried unto God with my voice, *even* unto God with my voice; and he gave ear unto me.  
+> To the chief Musician, to Jeduthun, A Psalm of Asaph.
+
+1 I cried unto God with my voice, *even* unto God with my voice; and he gave ear unto me.  
 2 In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.  
 3 I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.  
 4 Thou holdest mine eyes waking: I am so troubled that I cannot speak.  

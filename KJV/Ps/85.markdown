@@ -1,6 +1,8 @@
 ### Psalm 85
 
-1 <<To the chief Musician, A Psalm for the sons of Korah.>> LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.  
+> To the chief Musician, A Psalm for the sons of Korah.
+
+1 LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.  
 2 Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.  
 3 Thou hast taken away all thy wrath: thou hast turned *thyself* from the fierceness of thine anger.  
 4 Turn us, O God of our salvation, and cause thine anger toward us to cease.  

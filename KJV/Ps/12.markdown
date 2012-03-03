@@ -1,6 +1,8 @@
 ### Psalm 12
 
-1 <<To the chief Musician upon Sheminith, A Psalm of David.>> Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.  
+> To the chief Musician upon Sheminith, A Psalm of David.
+
+1 Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.  
 2 They speak vanity every one with his neighbour: *with* flattering lips *and* with a double heart do they speak.  
 3 The LORD shall cut off all flattering lips, *and* the tongue that speaketh proud things:  
 4 Who have said, With our tongue will we prevail; our lips *are* our own: who *is* lord over us?  

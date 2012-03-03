@@ -1,6 +1,8 @@
 ### Psalm 130
 
-1 <<A Song of degrees.>> Out of the depths have I cried unto thee, O LORD.  
+> A Song of degrees.
+
+1 Out of the depths have I cried unto thee, O LORD.  
 2 Lord, hear my voice: let thine ears be attentive to the voice of my supplications.  
 3 If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?  
 4 But *there is* forgiveness with thee, that thou mayest be feared.  

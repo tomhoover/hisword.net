@@ -1,6 +1,8 @@
 ### Psalm 8
 
-1 <<To the chief Musician upon Gittith, A Psalm of David.>> O LORD our Lord, how excellent *is* thy name in all the earth! who hast set thy glory above the heavens.  
+> To the chief Musician upon Gittith, A Psalm of David.
+
+1 O LORD our Lord, how excellent *is* thy name in all the earth! who hast set thy glory above the heavens.  
 2 Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.  
 3 When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;  
 4 What is man, that thou art mindful of him? and the son of man, that thou visitest him?  

@@ -1,6 +1,8 @@
 ### Psalm 144
 
-1 <<*A Psalm* of David.>> Blessed *be* the LORD my strength, which teacheth my hands to war, *and* my fingers to fight:  
+> *A Psalm* of David.
+
+1 Blessed *be* the LORD my strength, which teacheth my hands to war, *and* my fingers to fight:  
 2 My goodness, and my fortress; my high tower, and my deliverer; my shield, and *he* in whom I trust; who subdueth my people under me.  
 3 LORD, what *is* man, that thou takest knowledge of him! *or* the son of man, that thou makest account of him!  
 4 Man is like to vanity: his days *are* as a shadow that passeth away.  

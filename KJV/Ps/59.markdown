@@ -1,6 +1,8 @@
 ### Psalm 59
 
-1 <<To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him.>> Deliver me from mine enemies, O my God: defend me from them that rise up against me.  
+> To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him.
+
+1 Deliver me from mine enemies, O my God: defend me from them that rise up against me.  
 2 Deliver me from the workers of iniquity, and save me from bloody men.  
 3 For, lo, they lie in wait for my soul: the mighty are gathered against me; not *for* my transgression, nor *for* my sin, O LORD.  
 4 They run and prepare themselves without *my* fault: awake to help me, and behold.  

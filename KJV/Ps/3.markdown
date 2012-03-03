@@ -1,6 +1,8 @@
 ### Psalm 3
 
-1 <<A Psalm of David, when he fled from Absalom his son.>> LORD, how are they increased that trouble me! many *are* they that rise up against me.  
+> A Psalm of David, when he fled from Absalom his son.
+
+1 LORD, how are they increased that trouble me! many *are* they that rise up against me.  
 2 Many *there be* which say of my soul, *There is* no help for him in God. Selah.  
 3 But thou, O LORD, *art* a shield for me; my glory, and the lifter up of mine head.  
 4 I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.  

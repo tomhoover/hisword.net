@@ -1,6 +1,8 @@
 ### Psalm 98
 
-1 <<A Psalm.>> O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.  
+> A Psalm.
+
+1 O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.  
 2 The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.  
 3 He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.  
 4 Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.  

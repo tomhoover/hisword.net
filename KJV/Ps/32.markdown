@@ -1,6 +1,8 @@
 ### Psalm 32
 
-1 <<*A Psalm* of David, Maschil.>> Blessed *is he whose* transgression *is* forgiven, *whose* sin *is* covered.  
+> *A Psalm* of David, Maschil.
+
+1 Blessed *is he whose* transgression *is* forgiven, *whose* sin *is* covered.  
 2 Blessed *is* the man unto whom the LORD imputeth not iniquity, and in whose spirit *there is* no guile.  
 3 When I kept silence, my bones waxed old through my roaring all the day long.  
 4 For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.  

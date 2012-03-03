@@ -1,6 +1,8 @@
 ### Psalm 31
 
-1 <<To the chief Musician, A Psalm of David.>> In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.  
+> To the chief Musician, A Psalm of David.
+
+1 In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.  
 2 Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.  
 3 For thou *art* my rock and my fortress; therefore for thy name's sake lead me, and guide me.  
 4 Pull me out of the net that they have laid privily for me: for thou *art* my strength.  

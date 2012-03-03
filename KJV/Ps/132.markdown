@@ -1,6 +1,8 @@
 ### Psalm 132
 
-1 <<A Song of degrees.>> LORD, remember David, *and* all his afflictions:  
+> A Song of degrees.
+
+1 LORD, remember David, *and* all his afflictions:  
 2 How he sware unto the LORD, *and* vowed unto the mighty *God* of Jacob;  
 3 Surely I will not come into the tabernacle of my house, nor go up into my bed;  
 4 I will not give sleep to mine eyes, *or* slumber to mine eyelids,  

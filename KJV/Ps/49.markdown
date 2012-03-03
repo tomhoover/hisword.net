@@ -1,6 +1,8 @@
 ### Psalm 49
 
-1 <<To the chief Musician, A Psalm for the sons of Korah.>> Hear this, all *ye* people; give ear, all *ye* inhabitants of the world:  
+> To the chief Musician, A Psalm for the sons of Korah.
+
+1 Hear this, all *ye* people; give ear, all *ye* inhabitants of the world:  
 2 Both low and high, rich and poor, together.  
 3 My mouth shall speak of wisdom; and the meditation of my heart *shall be* of understanding.  
 4 I will incline mine ear to a parable: I will open my dark saying upon the harp.  

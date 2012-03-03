@@ -1,6 +1,8 @@
 ### Psalm 25
 
-1 <<*A Psalm* of David.>> Unto thee, O LORD, do I lift up my soul.  
+> *A Psalm* of David.
+
+1 Unto thee, O LORD, do I lift up my soul.  
 2 O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.  
 3 Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.  
 4 Shew me thy ways, O LORD; teach me thy paths.  

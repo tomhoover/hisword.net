@@ -1,6 +1,8 @@
 ### Psalm 44
 
-1 <<To the chief Musician for the sons of Korah, Maschil.>> We have heard with our ears, O God, our fathers have told us, *what* work thou didst in their days, in the times of old.  
+> To the chief Musician for the sons of Korah, Maschil.
+
+1 We have heard with our ears, O God, our fathers have told us, *what* work thou didst in their days, in the times of old.  
 2 *How* thou didst drive out the heathen with thy hand, and plantedst them; *how* thou didst afflict the people, and cast them out.  
 3 For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.  
 4 Thou art my King, O God: command deliverances for Jacob.  

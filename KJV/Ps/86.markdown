@@ -1,6 +1,8 @@
 ### Psalm 86
 
-1 <<A Prayer of David.>> Bow down thine ear, O LORD, hear me: for I *am* poor and needy.  
+> A Prayer of David.
+
+1 Bow down thine ear, O LORD, hear me: for I *am* poor and needy.  
 2 Preserve my soul; for I *am* holy: O thou my God, save thy servant that trusteth in thee.  
 3 Be merciful unto me, O Lord: for I cry unto thee daily.  
 4 Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul.  

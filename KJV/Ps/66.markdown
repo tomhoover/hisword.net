@@ -1,6 +1,8 @@
 ### Psalm 66
 
-1 <<To the chief Musician, A Song *or* Psalm.>> Make a joyful noise unto God, all ye lands:  
+> To the chief Musician, A Song *or* Psalm.
+
+1 Make a joyful noise unto God, all ye lands:  
 2 Sing forth the honour of his name: make his praise glorious.  
 3 Say unto God, How terrible *art thou in* thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.  
 4 All the earth shall worship thee, and shall sing unto thee; they shall sing *to* thy name. Selah.  

@@ -1,6 +1,8 @@
 ### Psalm 41
 
-1 <<To the chief Musician, A Psalm of David.>> Blessed *is* he that considereth the poor: the LORD will deliver him in time of trouble.  
+> To the chief Musician, A Psalm of David.
+
+1 Blessed *is* he that considereth the poor: the LORD will deliver him in time of trouble.  
 2 The LORD will preserve him, and keep him alive; *and* he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.  
 3 The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.  
 4 I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.  

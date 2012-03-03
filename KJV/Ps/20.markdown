@@ -1,6 +1,8 @@
 ### Psalm 20
 
-1 <<To the chief Musician, A Psalm of David.>> The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;  
+> To the chief Musician, A Psalm of David.
+
+1 The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;  
 2 Send thee help from the sanctuary, and strengthen thee out of Zion;  
 3 Remember all thy offerings, and accept thy burnt sacrifice; Selah.  
 4 Grant thee according to thine own heart, and fulfil all thy counsel.  

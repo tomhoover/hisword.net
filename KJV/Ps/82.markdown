@@ -1,6 +1,8 @@
 ### Psalm 82
 
-1 <<A Psalm of Asaph.>> God standeth in the congregation of the mighty; he judgeth among the gods.  
+> A Psalm of Asaph.
+
+1 God standeth in the congregation of the mighty; he judgeth among the gods.  
 2 How long will ye judge unjustly, and accept the persons of the wicked? Selah.  
 3 Defend the poor and fatherless: do justice to the afflicted and needy.  
 4 Deliver the poor and needy: rid *them* out of the hand of the wicked.  

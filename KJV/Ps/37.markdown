@@ -1,6 +1,8 @@
 ### Psalm 37
 
-1 <<*A Psalm* of David.>> Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.  
+> *A Psalm* of David.
+
+1 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.  
 2 For they shall soon be cut down like the grass, and wither as the green herb.  
 3 Trust in the LORD, and do good; *so* shalt thou dwell in the land, and verily thou shalt be fed.  
 4 Delight thyself also in the LORD; and he shall give thee the desires of thine heart.  

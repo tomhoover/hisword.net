@@ -1,6 +1,8 @@
 ### Psalm 108
 
-1 <<A Song *or* Psalm of David.>> O God, my heart is fixed; I will sing and give praise, even with my glory.  
+> A Song *or* Psalm of David.
+
+1 O God, my heart is fixed; I will sing and give praise, even with my glory.  
 2 Awake, psaltery and harp: I *myself* will awake early.  
 3 I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations.  
 4 For thy mercy *is* great above the heavens: and thy truth *reacheth* unto the clouds.  

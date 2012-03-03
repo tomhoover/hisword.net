@@ -1,6 +1,8 @@
 ### Psalm 90
 
-1 <<A Prayer of Moses the man of God.>> Lord, thou hast been our dwelling place in all generations.  
+> A Prayer of Moses the man of God.
+
+1 Lord, thou hast been our dwelling place in all generations.  
 2 Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou *art* God.  
 3 Thou turnest man to destruction; and sayest, Return, ye children of men.  
 4 For a thousand years in thy sight *are but* as yesterday when it is past, and *as* a watch in the night.  

@@ -1,6 +1,8 @@
 ### Psalm 9
 
-1 <<To the chief Musician upon Muthlabben, A Psalm of David.>> I will praise *thee*, O LORD, with my whole heart; I will shew forth all thy marvellous works.  
+> To the chief Musician upon Muthlabben, A Psalm of David.
+
+1 I will praise *thee*, O LORD, with my whole heart; I will shew forth all thy marvellous works.  
 2 I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.  
 3 When mine enemies are turned back, they shall fall and perish at thy presence.  
 4 For thou hast maintained my right and my cause; thou satest in the throne judging right.  

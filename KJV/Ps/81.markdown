@@ -1,6 +1,8 @@
 ### Psalm 81
 
-1 <<To the chief Musician upon Gittith, *A Psalm* of Asaph.>> Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.  
+> To the chief Musician upon Gittith, *A Psalm* of Asaph.
+
+1 Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.  
 2 Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.  
 3 Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.  
 4 For this *was* a statute for Israel, *and* a law of the God of Jacob.  

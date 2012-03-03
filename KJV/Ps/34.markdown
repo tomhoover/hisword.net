@@ -1,6 +1,8 @@
 ### Psalm 34
 
-1 <<*A Psalm* of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.>> I will bless the LORD at all times: his praise *shall* continually *be* in my mouth.  
+> *A Psalm* of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.
+
+1 I will bless the LORD at all times: his praise *shall* continually *be* in my mouth.  
 2 My soul shall make her boast in the LORD: the humble shall hear *thereof*, and be glad.  
 3 O magnify the LORD with me, and let us exalt his name together.  
 4 I sought the LORD, and he heard me, and delivered me from all my fears.  

@@ -1,6 +1,8 @@
 ### Psalm 58
 
-1 <<To the chief Musician, Altaschith, Michtam of David.>> Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?  
+> To the chief Musician, Altaschith, Michtam of David.
+
+1 Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?  
 2 Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.  
 3 The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.  
 4 Their poison *is* like the poison of a serpent: *they are* like the deaf adder *that* stoppeth her ear;  

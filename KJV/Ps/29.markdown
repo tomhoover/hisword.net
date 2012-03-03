@@ -1,6 +1,8 @@
 ### Psalm 29
 
-1 <<A Psalm of David.>> Give unto the LORD, O ye mighty, give unto the LORD glory and strength.  
+> A Psalm of David.
+
+1 Give unto the LORD, O ye mighty, give unto the LORD glory and strength.  
 2 Give unto the LORD the glory due unto his name; worship the LORD in the beauty of holiness.  
 3 The voice of the LORD *is* upon the waters: the God of glory thundereth: the LORD *is* upon many waters.  
 4 The voice of the LORD *is* powerful; the voice of the LORD *is* full of majesty.  

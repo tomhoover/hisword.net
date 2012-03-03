@@ -1,6 +1,8 @@
 ### Psalm 76
 
-1 <<To the chief Musician on Neginoth, A Psalm *or* Song of Asaph.>> In Judah *is* God known: his name *is* great in Israel.  
+> To the chief Musician on Neginoth, A Psalm *or* Song of Asaph.
+
+1 In Judah *is* God known: his name *is* great in Israel.  
 2 In Salem also is his tabernacle, and his dwelling place in Zion.  
 3 There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.  
 4 Thou *art* more glorious *and* excellent than the mountains of prey.  

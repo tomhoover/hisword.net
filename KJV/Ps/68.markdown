@@ -1,6 +1,8 @@
 ### Psalm 68
 
-1 <<To the chief Musician, A Psalm *or* Song of David.>> Let God arise, let his enemies be scattered: let them also that hate him flee before him.  
+> To the chief Musician, A Psalm *or* Song of David.
+
+1 Let God arise, let his enemies be scattered: let them also that hate him flee before him.  
 2 As smoke is driven away, *so* drive *them* away: as wax melteth before the fire, *so* let the wicked perish at the presence of God.  
 3 But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.  
 4 Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.  

@@ -1,6 +1,8 @@
 ### Psalm 17
 
-1 <<A Prayer of David.>> Hear the right, O LORD, attend unto my cry, give ear unto my prayer, *that goeth* not out of feigned lips.  
+> A Prayer of David.
+
+1 Hear the right, O LORD, attend unto my cry, give ear unto my prayer, *that goeth* not out of feigned lips.  
 2 Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.  
 3 Thou hast proved mine heart; thou hast visited *me* in the night; thou hast tried me, *and* shalt find nothing; I am purposed *that* my mouth shall not transgress.  
 4 Concerning the works of men, by the word of thy lips I have kept *me from* the paths of the destroyer.  

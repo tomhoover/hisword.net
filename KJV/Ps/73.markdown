@@ -1,6 +1,8 @@
 ### Psalm 73
 
-1 <<A Psalm of Asaph.>> Truly God *is* good to Israel, *even* to such as are of a clean heart.  
+> A Psalm of Asaph.
+
+1 Truly God *is* good to Israel, *even* to such as are of a clean heart.  
 2 But as for me, my feet were almost gone; my steps had well nigh slipped.  
 3 For I was envious at the foolish, *when* I saw the prosperity of the wicked.  
 4 For *there are* no bands in their death: but their strength *is* firm.  

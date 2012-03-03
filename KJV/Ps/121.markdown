@@ -1,6 +1,8 @@
 ### Psalm 121
 
-1 <<A Song of degrees.>> I will lift up mine eyes unto the hills, from whence cometh my help.  
+> A Song of degrees.
+
+1 I will lift up mine eyes unto the hills, from whence cometh my help.  
 2 My help *cometh* from the LORD, which made heaven and earth.  
 3 He will not suffer thy foot to be moved: he that keepeth thee will not slumber.  
 4 Behold, he that keepeth Israel shall neither slumber nor sleep.  

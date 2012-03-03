@@ -1,6 +1,8 @@
 ### Psalm 46
 
-1 <<To the chief Musician for the sons of Korah, A Song upon Alamoth.>> God *is* our refuge and strength, a very present help in trouble.  
+> To the chief Musician for the sons of Korah, A Song upon Alamoth.
+
+1 God *is* our refuge and strength, a very present help in trouble.  
 2 Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;  
 3 *Though* the waters thereof roar *and* be troubled, *though* the mountains shake with the swelling thereof. Selah.  
 4 *There is* a river, the streams whereof shall make glad the city of God, the holy *place* of the tabernacles of the most High.  

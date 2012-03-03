@@ -1,6 +1,8 @@
 ### Psalm 56
 
-1 <<To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath.>> Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.  
+> To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath.
+
+1 Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.  
 2 Mine enemies would daily swallow *me* up: for *they be* many that fight against me, O thou most High.  
 3 What time I am afraid, I will trust in thee.  
 4 In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.  

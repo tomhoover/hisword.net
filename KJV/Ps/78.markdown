@@ -1,6 +1,8 @@
 ### Psalm 78
 
-1 <<Maschil of Asaph.>> Give ear, O my people, *to* my law: incline your ears to the words of my mouth.  
+> Maschil of Asaph.
+
+1 Give ear, O my people, *to* my law: incline your ears to the words of my mouth.  
 2 I will open my mouth in a parable: I will utter dark sayings of old:  
 3 Which we have heard and known, and our fathers have told us.  
 4 We will not hide *them* from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.  

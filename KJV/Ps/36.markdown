@@ -1,6 +1,8 @@
 ### Psalm 36
 
-1 <<To the chief Musician, *A Psalm* of David the servant of the LORD.>> The transgression of the wicked saith within my heart, *that there is* no fear of God before his eyes.  
+> To the chief Musician, *A Psalm* of David the servant of the LORD.
+
+1 The transgression of the wicked saith within my heart, *that there is* no fear of God before his eyes.  
 2 For he flattereth himself in his own eyes, until his iniquity be found to be hateful.  
 3 The words of his mouth *are* iniquity and deceit: he hath left off to be wise, *and* to do good.  
 4 He deviseth mischief upon his bed; he setteth himself in a way *that is* not good; he abhorreth not evil.  

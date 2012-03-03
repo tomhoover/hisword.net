@@ -1,6 +1,8 @@
 ### Psalm 52
 
-1 <<To the chief Musician, Maschil, *A Psalm* of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.>> Why boastest thou thyself in mischief, O mighty man? the goodness of God *endureth* continually.  
+> To the chief Musician, Maschil, *A Psalm* of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.
+
+1 Why boastest thou thyself in mischief, O mighty man? the goodness of God *endureth* continually.  
 2 Thy tongue deviseth mischiefs; like a sharp rasor, working deceitfully.  
 3 Thou lovest evil more than good; *and* lying rather than to speak righteousness. Selah.  
 4 Thou lovest all devouring words, O *thou* deceitful tongue.  

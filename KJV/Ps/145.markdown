@@ -1,6 +1,8 @@
 ### Psalm 145
 
-1 <<David's *Psalm* of praise.>> I will extol thee, my God, O king; and I will bless thy name for ever and ever.  
+> David's *Psalm* of praise.
+
+1 I will extol thee, my God, O king; and I will bless thy name for ever and ever.  
 2 Every day will I bless thee; and I will praise thy name for ever and ever.  
 3 Great *is* the LORD, and greatly to be praised; and his greatness *is* unsearchable.  
 4 One generation shall praise thy works to another, and shall declare thy mighty acts.  

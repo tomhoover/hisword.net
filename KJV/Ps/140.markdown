@@ -1,6 +1,8 @@
 ### Psalm 140
 
-1 <<To the chief Musician, A Psalm of David.>> Deliver me, O LORD, from the evil man: preserve me from the violent man;  
+> To the chief Musician, A Psalm of David.
+
+1 Deliver me, O LORD, from the evil man: preserve me from the violent man;  
 2 Which imagine mischiefs in *their* heart; continually are they gathered together *for* war.  
 3 They have sharpened their tongues like a serpent; adders' poison *is* under their lips. Selah.  
 4 Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.  

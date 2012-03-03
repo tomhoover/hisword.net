@@ -1,6 +1,8 @@
 ### Psalm 5
 
-1 <<To the chief Musician upon Nehiloth, A Psalm of David.>> Give ear to my words, O LORD, consider my meditation.  
+> To the chief Musician upon Nehiloth, A Psalm of David.
+
+1 Give ear to my words, O LORD, consider my meditation.  
 2 Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.  
 3 My voice shalt thou hear in the morning, O LORD; in the morning will I direct *my prayer* unto thee, and will look up.  
 4 For thou *art* not a God that hath pleasure in wickedness: neither shall evil dwell with thee.  

@@ -1,6 +1,8 @@
 ### Psalm 103
 
-1 <<*A Psalm* of David.>> Bless the LORD, O my soul: and all that is within me, *bless* his holy name.  
+> *A Psalm* of David.
+
+1 Bless the LORD, O my soul: and all that is within me, *bless* his holy name.  
 2 Bless the LORD, O my soul, and forget not all his benefits:  
 3 Who forgiveth all thine iniquities; who healeth all thy diseases;  
 4 Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;  

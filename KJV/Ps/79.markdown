@@ -1,6 +1,8 @@
 ### Psalm 79
 
-1 <<A Psalm of Asaph.>> O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.  
+> A Psalm of Asaph.
+
+1 O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.  
 2 The dead bodies of thy servants have they given *to be* meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.  
 3 Their blood have they shed like water round about Jerusalem; and *there was* none to bury *them*.  
 4 We are become a reproach to our neighbours, a scorn and derision to them that are round about us.  

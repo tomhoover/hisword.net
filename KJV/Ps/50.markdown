@@ -1,6 +1,8 @@
 ### Psalm 50
 
-1 <<A Psalm of Asaph.>> The mighty God, *even* the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.  
+> A Psalm of Asaph.
+
+1 The mighty God, *even* the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.  
 2 Out of Zion, the perfection of beauty, God hath shined.  
 3 Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.  
 4 He shall call to the heavens from above, and to the earth, that he may judge his people.  

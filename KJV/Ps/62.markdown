@@ -1,6 +1,8 @@
 ### Psalm 62
 
-1 <<To the chief Musician, to Jeduthun, A Psalm of David.>> Truly my soul waiteth upon God: from him *cometh* my salvation.  
+> To the chief Musician, to Jeduthun, A Psalm of David.
+
+1 Truly my soul waiteth upon God: from him *cometh* my salvation.  
 2 He only *is* my rock and my salvation; *he is* my defence; I shall not be greatly moved.  
 3 How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall *shall ye be, and as* a tottering fence.  
 4 They only consult to cast *him* down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.  

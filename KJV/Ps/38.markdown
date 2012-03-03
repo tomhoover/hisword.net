@@ -1,6 +1,8 @@
 ### Psalm 38
 
-1 <<A Psalm of David, to bring to remembrance.>> O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.  
+> A Psalm of David, to bring to remembrance.
+
+1 O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.  
 2 For thine arrows stick fast in me, and thy hand presseth me sore.  
 3 *There is* no soundness in my flesh because of thine anger; neither *is there any* rest in my bones because of my sin.  
 4 For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.  

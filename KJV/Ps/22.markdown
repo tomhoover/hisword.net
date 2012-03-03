@@ -1,6 +1,8 @@
 ### Psalm 22
 
-1 <<To the chief Musician upon Aijeleth Shahar, A Psalm of David.>> My God, my God, why hast thou forsaken me? *why art thou so* far from helping me, *and from* the words of my roaring?  
+> To the chief Musician upon Aijeleth Shahar, A Psalm of David.
+
+1 My God, my God, why hast thou forsaken me? *why art thou so* far from helping me, *and from* the words of my roaring?  
 2 O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.  
 3 But thou *art* holy, *O thou* that inhabitest the praises of Israel.  
 4 Our fathers trusted in thee: they trusted, and thou didst deliver them.  
