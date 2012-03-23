@@ -8,24 +8,6 @@ PRINTDATE=` date '+%b %e, %Y' | sed 's/  / /'`
 
 cd ${LIB}
 
-# Bible in a Year (Chronological)
-READING=`grep -v "^#" ${LIB}/KJV/biay-chron.txt | head -n ${TODAY} | tail -n 1 `
-FILEPATH=${LIB}/source/_posts/$DATE-daily-bible-reading-chron.markdown
-
-echo "---" > $FILEPATH
-echo "layout: post" >> $FILEPATH
-echo "title: Daily Bible Reading for $PRINTDATE (Chronological)" >> $FILEPATH
-echo "date: $DATE" >> $FILEPATH
-echo "comments: true" >> $FILEPATH
-echo "categories: [Bible in a Year - Chron]" >> $FILEPATH
-echo "---" >> $FILEPATH
-
-for REF in $(echo "$READING" | tr " " "\n")
-do
-  FILEPATH2=`echo "$REF" | sed -e 's|\.|/|'`
-  echo "{% render_partial ../KJV/$FILEPATH2.markdown %}" >> $FILEPATH
-done
-
 # Bible in a Year (Canonical)
 READING=`grep -v "^#" ${LIB}/KJV/biay.txt | head -n ${TODAY} | tail -n 1 `
 FILEPATH=${LIB}/source/_posts/$DATE-daily-bible-reading.markdown
@@ -36,6 +18,24 @@ echo "title: Daily Bible Reading for $PRINTDATE" >> $FILEPATH
 echo "date: $DATE" >> $FILEPATH
 echo "comments: true" >> $FILEPATH
 echo "categories: [Bible in a Year]" >> $FILEPATH
+echo "---" >> $FILEPATH
+
+for REF in $(echo "$READING" | tr " " "\n")
+do
+  FILEPATH2=`echo "$REF" | sed -e 's|\.|/|'`
+  echo "{% render_partial ../KJV/$FILEPATH2.markdown %}" >> $FILEPATH
+done
+
+# Bible in a Year (Chronological)
+READING=`grep -v "^#" ${LIB}/KJV/biay-chron.txt | head -n ${TODAY} | tail -n 1 `
+FILEPATH=${LIB}/source/_posts/$DATE-daily-bible-reading-chron.markdown
+
+echo "---" > $FILEPATH
+echo "layout: post" >> $FILEPATH
+echo "title: Daily Bible Reading for $PRINTDATE (Chronological)" >> $FILEPATH
+echo "date: $DATE" >> $FILEPATH
+echo "comments: true" >> $FILEPATH
+echo "categories: [Bible in a Year - Chron]" >> $FILEPATH
 echo "---" >> $FILEPATH
 
 for REF in $(echo "$READING" | tr " " "\n")
