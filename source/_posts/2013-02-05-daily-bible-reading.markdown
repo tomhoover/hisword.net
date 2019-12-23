@@ -1,0 +1,9 @@
+---
+layout: post
+title: Daily Bible Reading for Feb 5, 2013
+date: 2013-02-05
+comments: true
+categories: [Bible in a Year]
+---
+{% render_partial ../KJV/Le/14.markdown %}
+{% render_partial ../KJV/Le/15.markdown %}

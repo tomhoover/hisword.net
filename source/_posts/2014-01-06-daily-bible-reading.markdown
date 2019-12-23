@@ -1,0 +1,10 @@
+---
+layout: post
+title: Daily Bible Reading for Jan 6, 2014
+date: 2014-01-06
+comments: true
+categories: [Bible in a Year]
+---
+{% render_partial ../KJV/Ge/19.markdown %}
+{% render_partial ../KJV/Ge/20.markdown %}
+{% render_partial ../KJV/Ge/21.markdown %}
